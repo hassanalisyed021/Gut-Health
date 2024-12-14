@@ -1,0 +1,2001 @@
+Abdominal Pain,Bloating,Diarrhea,Constipation,Dietary Habits,Stress Levels,Physical Activity,Age,Medication History,Diet Type,Gut Health Disease
+7,8,2,7,3,4,2,40,0,Vegan,IBS
+7,7,4,5,3,4,2,21,0,Non-Vegetarian,IBS
+6,6,2,5,2,4,2,31,0,Vegan,IBS
+7,7,4,6,3,4,3,34,0,Vegetarian,IBS
+8,8,2,7,1,3,2,40,0,Vegetarian,IBS
+6,8,2,6,2,4,2,45,0,Vegan,IBS
+8,8,4,7,1,4,2,22,0,Non-Vegetarian,IBS
+8,6,3,6,2,4,3,23,0,Vegan,IBS
+7,6,3,6,2,4,3,33,0,Non-Vegetarian,IBS
+7,8,2,6,1,4,2,37,0,Vegetarian,IBS
+8,6,2,5,1,3,2,32,0,Vegan,IBS
+7,5,2,7,3,3,2,27,0,Non-Vegetarian,IBS
+5,7,2,6,3,4,2,47,0,Non-Vegetarian,IBS
+8,8,3,5,3,3,3,43,0,Vegetarian,IBS
+8,7,4,5,3,3,2,33,0,Non-Vegetarian,IBS
+5,6,4,7,2,3,2,28,0,Non-Vegetarian,IBS
+6,6,2,7,3,4,2,36,0,Vegetarian,IBS
+8,8,3,5,3,3,2,34,0,Non-Vegetarian,IBS
+8,9,4,7,3,4,3,21,0,Vegetarian,IBS
+6,5,2,6,2,4,2,45,0,Vegan,IBS
+5,5,2,5,3,4,2,39,0,Vegetarian,IBS
+7,7,2,6,1,3,2,29,0,Vegetarian,IBS
+7,7,3,5,1,4,2,45,0,Non-Vegetarian,IBS
+6,6,4,5,1,3,3,36,0,Vegan,IBS
+6,6,3,7,1,4,2,20,0,Vegan,IBS
+6,9,3,6,3,4,2,30,0,Vegetarian,IBS
+5,9,3,6,2,3,2,35,0,Non-Vegetarian,IBS
+5,8,4,6,1,3,3,47,0,Vegetarian,IBS
+7,6,4,7,3,4,3,26,0,Vegan,IBS
+5,6,2,7,1,3,3,42,0,Vegetarian,IBS
+6,7,4,6,1,4,3,36,0,Vegan,IBS
+8,8,2,5,3,3,2,28,0,Vegetarian,IBS
+8,7,3,5,3,3,3,23,0,Non-Vegetarian,IBS
+8,7,3,5,3,3,2,37,0,Vegan,IBS
+6,6,3,7,1,3,3,20,0,Vegan,IBS
+6,9,4,7,1,4,2,35,0,Vegan,IBS
+7,9,4,6,3,3,3,40,0,Vegetarian,IBS
+8,5,2,5,3,4,2,36,0,Vegan,IBS
+8,8,3,5,2,3,3,22,0,Non-Vegetarian,IBS
+5,9,2,6,1,3,2,47,0,Non-Vegetarian,IBS
+7,9,2,7,1,4,2,37,0,Vegetarian,IBS
+7,6,4,6,2,4,2,41,0,Vegetarian,IBS
+7,7,3,6,2,3,3,20,0,Vegan,IBS
+6,9,3,7,2,3,3,44,0,Vegetarian,IBS
+8,6,4,5,1,4,2,27,0,Non-Vegetarian,IBS
+8,8,4,7,3,4,3,21,0,Vegetarian,IBS
+7,7,2,6,3,4,2,41,0,Vegetarian,IBS
+6,5,3,6,3,4,2,47,0,Vegetarian,IBS
+8,9,2,7,2,3,3,39,0,Vegetarian,IBS
+7,8,2,6,2,4,2,36,0,Vegetarian,IBS
+7,8,3,7,2,3,3,40,0,Vegan,IBS
+7,5,2,5,2,4,2,34,0,Vegan,IBS
+6,5,2,5,1,4,2,26,0,Vegetarian,IBS
+5,9,4,7,2,4,2,24,0,Vegan,IBS
+5,8,2,7,1,4,3,49,0,Non-Vegetarian,IBS
+8,6,3,5,3,4,2,49,0,Vegetarian,IBS
+7,6,3,6,1,4,3,39,0,Vegetarian,IBS
+6,7,3,5,1,3,3,35,0,Vegan,IBS
+7,6,2,7,2,3,3,20,0,Vegetarian,IBS
+7,7,2,7,1,3,3,29,0,Vegan,IBS
+5,9,4,6,2,3,2,37,0,Vegetarian,IBS
+5,6,2,6,2,4,3,21,0,Vegan,IBS
+7,8,3,5,2,3,2,48,0,Vegan,IBS
+5,9,2,5,2,3,2,43,0,Non-Vegetarian,IBS
+5,7,3,5,3,4,3,42,0,Non-Vegetarian,IBS
+5,8,2,7,1,3,2,22,0,Vegan,IBS
+5,5,3,5,2,3,2,38,0,Vegetarian,IBS
+8,9,2,7,1,3,3,33,0,Vegetarian,IBS
+8,7,3,7,1,3,2,31,0,Vegetarian,IBS
+7,9,2,7,1,3,2,40,0,Vegetarian,IBS
+7,6,2,7,3,3,2,30,0,Vegan,IBS
+8,5,3,6,1,3,3,26,0,Vegetarian,IBS
+8,6,2,6,3,4,3,24,0,Vegetarian,IBS
+6,7,2,5,2,4,2,26,0,Non-Vegetarian,IBS
+8,8,3,7,3,3,3,41,0,Non-Vegetarian,IBS
+6,6,4,7,2,3,2,32,0,Vegetarian,IBS
+6,6,2,7,1,3,2,22,0,Vegetarian,IBS
+6,5,4,5,1,4,2,25,0,Vegetarian,IBS
+6,8,2,5,1,3,2,35,0,Vegetarian,IBS
+7,8,2,7,3,4,2,37,0,Vegan,IBS
+5,5,2,6,2,3,3,42,0,Vegan,IBS
+8,6,3,5,2,4,3,45,0,Vegetarian,IBS
+8,6,2,5,3,4,2,36,0,Vegan,IBS
+5,8,2,5,1,4,2,48,0,Non-Vegetarian,IBS
+7,9,4,5,2,4,3,49,0,Non-Vegetarian,IBS
+5,9,4,5,2,3,3,34,0,Vegan,IBS
+5,6,4,5,2,3,2,36,0,Non-Vegetarian,IBS
+6,5,4,7,1,3,3,42,0,Non-Vegetarian,IBS
+5,9,4,5,2,3,2,42,0,Non-Vegetarian,IBS
+5,6,3,7,1,3,3,28,0,Vegan,IBS
+7,9,2,6,1,3,3,21,0,Vegetarian,IBS
+8,6,3,6,2,4,2,46,0,Vegetarian,IBS
+5,8,2,6,2,3,2,36,0,Vegan,IBS
+7,9,2,6,2,3,2,26,0,Vegan,IBS
+8,6,3,6,2,4,3,34,0,Vegetarian,IBS
+7,6,2,6,1,4,2,47,0,Vegan,IBS
+6,7,2,5,1,4,3,43,0,Non-Vegetarian,IBS
+5,8,2,6,2,3,3,32,0,Vegan,IBS
+7,7,4,7,1,3,2,35,0,Vegan,IBS
+6,8,2,7,3,3,2,37,0,Vegetarian,IBS
+7,7,2,5,2,4,3,48,0,Vegan,IBS
+6,5,2,5,2,4,3,36,0,Vegetarian,IBS
+5,7,2,6,1,3,2,41,0,Vegan,IBS
+6,7,4,5,1,4,3,20,0,Vegan,IBS
+7,9,4,7,3,4,3,33,0,Vegetarian,IBS
+7,6,2,6,2,3,3,38,0,Non-Vegetarian,IBS
+7,7,4,5,2,4,3,22,0,Vegetarian,IBS
+8,5,4,5,2,3,2,36,0,Vegan,IBS
+6,8,2,5,1,4,2,23,0,Vegetarian,IBS
+5,9,3,7,3,4,3,34,0,Non-Vegetarian,IBS
+5,8,4,6,1,3,3,39,0,Vegetarian,IBS
+6,7,4,5,2,3,2,20,0,Vegan,IBS
+5,8,3,7,2,4,3,43,0,Non-Vegetarian,IBS
+7,7,4,7,1,4,3,25,0,Vegetarian,IBS
+8,7,4,6,2,3,3,43,0,Non-Vegetarian,IBS
+6,5,3,7,3,4,3,38,0,Non-Vegetarian,IBS
+5,6,3,7,1,4,2,31,0,Vegan,IBS
+6,9,3,7,3,4,2,30,0,Vegetarian,IBS
+6,6,3,5,3,4,3,21,0,Vegetarian,IBS
+6,8,2,7,1,3,2,28,0,Vegetarian,IBS
+8,7,3,7,1,3,3,47,0,Non-Vegetarian,IBS
+6,9,4,5,2,4,2,22,0,Non-Vegetarian,IBS
+8,8,2,7,1,3,3,47,0,Vegan,IBS
+5,9,2,7,3,4,3,49,0,Vegetarian,IBS
+5,6,2,6,3,4,3,38,0,Vegetarian,IBS
+5,5,2,5,1,3,2,21,0,Vegetarian,IBS
+8,7,4,7,2,4,2,26,0,Non-Vegetarian,IBS
+6,8,4,7,1,3,3,49,0,Non-Vegetarian,IBS
+8,9,3,5,1,3,2,46,0,Non-Vegetarian,IBS
+6,8,3,6,2,3,2,29,0,Vegetarian,IBS
+6,9,4,7,1,4,3,43,0,Vegetarian,IBS
+8,9,2,7,1,4,2,38,0,Vegetarian,IBS
+8,6,4,7,1,4,2,49,0,Non-Vegetarian,IBS
+6,6,3,7,2,3,3,49,0,Vegan,IBS
+5,8,4,5,1,4,2,29,0,Non-Vegetarian,IBS
+7,6,2,6,3,3,3,27,0,Non-Vegetarian,IBS
+7,5,3,5,1,4,3,23,0,Vegan,IBS
+5,5,4,6,3,3,3,34,0,Vegetarian,IBS
+5,9,2,6,1,3,3,28,0,Vegan,IBS
+8,5,3,7,2,4,2,37,0,Vegetarian,IBS
+7,5,4,7,3,3,3,43,0,Vegetarian,IBS
+8,9,2,5,1,3,2,41,0,Vegan,IBS
+6,9,2,7,1,4,2,36,0,Vegetarian,IBS
+6,8,4,5,1,3,2,32,0,Vegetarian,IBS
+7,7,4,6,2,3,2,32,0,Vegetarian,IBS
+8,7,3,5,2,3,2,37,0,Vegetarian,IBS
+8,5,3,6,2,3,2,23,0,Vegan,IBS
+5,7,3,6,3,4,3,47,0,Non-Vegetarian,IBS
+7,8,3,7,1,4,2,44,0,Vegan,IBS
+8,7,4,5,2,3,2,24,0,Vegan,IBS
+5,8,4,6,3,4,3,33,0,Vegetarian,IBS
+6,7,2,6,1,4,2,42,0,Non-Vegetarian,IBS
+7,6,4,5,3,3,2,35,0,Vegan,IBS
+8,9,3,6,1,3,2,39,0,Vegetarian,IBS
+7,6,4,7,3,4,3,24,0,Vegetarian,IBS
+8,5,3,5,3,4,3,41,0,Non-Vegetarian,IBS
+5,6,3,7,2,3,3,36,0,Vegetarian,IBS
+5,5,3,5,1,3,2,41,0,Vegetarian,IBS
+6,8,3,6,1,3,3,42,0,Vegetarian,IBS
+6,6,2,6,1,4,3,36,0,Vegetarian,IBS
+6,6,4,5,2,4,2,46,0,Non-Vegetarian,IBS
+6,7,3,5,1,3,2,29,0,Non-Vegetarian,IBS
+6,9,3,6,2,4,3,47,0,Non-Vegetarian,IBS
+5,7,2,7,2,3,2,30,0,Vegan,IBS
+8,8,2,7,3,4,2,41,0,Vegetarian,IBS
+7,9,2,6,3,4,2,22,0,Non-Vegetarian,IBS
+5,7,2,7,2,3,3,21,0,Vegan,IBS
+5,5,2,5,1,3,3,29,0,Vegetarian,IBS
+7,7,3,5,3,4,3,21,0,Vegan,IBS
+5,8,4,7,1,3,2,29,0,Vegetarian,IBS
+5,8,3,7,3,3,2,42,0,Non-Vegetarian,IBS
+8,5,3,5,3,3,3,28,0,Non-Vegetarian,IBS
+7,6,4,5,3,4,2,41,0,Non-Vegetarian,IBS
+6,9,4,5,3,4,3,37,0,Vegetarian,IBS
+5,6,4,6,3,3,3,46,0,Non-Vegetarian,IBS
+5,7,2,6,3,3,2,27,0,Vegetarian,IBS
+7,8,4,7,1,4,2,41,0,Vegetarian,IBS
+6,5,2,6,2,4,2,22,0,Non-Vegetarian,IBS
+6,7,4,5,1,4,3,22,0,Vegan,IBS
+6,8,2,6,1,3,3,40,0,Vegetarian,IBS
+8,8,4,5,2,4,2,26,0,Vegetarian,IBS
+5,5,4,5,2,4,3,37,0,Vegan,IBS
+6,9,2,5,1,4,2,28,0,Vegan,IBS
+5,8,4,6,1,3,2,30,0,Vegetarian,IBS
+7,7,3,5,2,3,2,39,0,Vegan,IBS
+8,8,2,7,2,3,2,32,0,Vegan,IBS
+7,6,2,6,1,3,3,22,0,Non-Vegetarian,IBS
+5,9,3,7,3,3,2,22,0,Vegetarian,IBS
+5,9,4,6,3,4,3,49,0,Non-Vegetarian,IBS
+7,7,3,5,1,3,2,28,0,Non-Vegetarian,IBS
+5,6,4,5,3,3,3,48,0,Non-Vegetarian,IBS
+5,6,3,5,3,4,2,24,0,Non-Vegetarian,IBS
+6,8,4,6,3,3,3,45,0,Vegetarian,IBS
+5,8,2,5,1,3,3,27,0,Non-Vegetarian,IBS
+6,9,4,6,3,4,3,21,0,Vegetarian,IBS
+5,9,2,6,3,4,3,47,0,Non-Vegetarian,IBS
+7,5,2,7,1,3,2,29,0,Vegan,IBS
+7,8,4,5,3,3,3,44,0,Vegan,IBS
+7,6,3,7,1,4,2,37,0,Non-Vegetarian,IBS
+6,9,2,7,2,4,2,33,0,Vegetarian,IBS
+5,5,4,6,1,3,3,25,0,Vegan,IBS
+7,6,2,6,3,4,3,34,0,Non-Vegetarian,IBS
+5,8,3,7,1,4,3,36,0,Vegetarian,IBS
+5,6,4,6,2,4,3,34,0,Non-Vegetarian,IBS
+8,7,4,5,3,3,2,20,0,Vegetarian,IBS
+7,7,4,6,3,4,3,33,0,Vegetarian,IBS
+8,5,4,5,1,3,2,42,0,Non-Vegetarian,IBS
+7,8,3,7,2,4,3,30,0,Vegan,IBS
+5,8,2,5,3,4,2,46,0,Non-Vegetarian,IBS
+7,5,2,7,3,3,3,47,0,Non-Vegetarian,IBS
+6,9,4,5,1,4,3,37,0,Non-Vegetarian,IBS
+8,7,3,5,1,3,2,27,0,Non-Vegetarian,IBS
+6,6,4,7,1,4,3,40,0,Non-Vegetarian,IBS
+6,7,3,7,1,4,3,26,0,Vegan,IBS
+8,8,2,6,1,4,2,41,0,Vegetarian,IBS
+5,6,4,5,1,4,2,37,0,Vegetarian,IBS
+6,7,2,5,1,4,3,28,0,Vegan,IBS
+6,7,2,5,1,4,3,34,0,Vegetarian,IBS
+6,8,2,6,2,4,2,21,0,Vegetarian,IBS
+5,9,3,5,1,4,3,41,0,Vegetarian,IBS
+6,6,3,6,2,3,3,29,0,Vegan,IBS
+5,7,2,7,3,4,2,25,0,Vegetarian,IBS
+7,5,3,6,2,4,3,34,0,Non-Vegetarian,IBS
+7,7,3,6,2,4,2,22,0,Vegan,IBS
+8,6,3,7,2,4,3,42,0,Vegetarian,IBS
+5,9,4,6,3,3,3,23,0,Non-Vegetarian,IBS
+5,9,4,7,2,4,3,38,0,Vegan,IBS
+8,5,4,7,2,3,2,48,0,Vegan,IBS
+7,5,4,5,2,3,2,45,0,Non-Vegetarian,IBS
+8,9,3,6,1,3,3,28,0,Vegetarian,IBS
+5,6,3,7,2,4,3,26,0,Vegan,IBS
+7,6,3,5,3,3,3,27,0,Non-Vegetarian,IBS
+5,7,3,6,3,4,3,33,0,Non-Vegetarian,IBS
+7,9,2,6,1,3,3,41,0,Non-Vegetarian,IBS
+7,5,3,7,2,3,2,44,0,Non-Vegetarian,IBS
+6,7,2,5,3,3,3,31,0,Vegan,IBS
+5,7,3,7,2,4,3,29,0,Vegetarian,IBS
+8,5,2,5,3,4,2,44,0,Vegan,IBS
+8,8,2,7,1,3,2,31,0,Vegetarian,IBS
+5,8,4,7,2,4,2,48,0,Vegan,IBS
+6,6,2,7,1,4,3,48,0,Vegetarian,IBS
+7,9,2,7,1,3,2,38,0,Vegan,IBS
+6,8,2,6,3,3,3,21,0,Vegetarian,IBS
+5,5,4,7,3,3,3,42,0,Vegetarian,IBS
+8,9,3,6,3,4,3,40,0,Vegan,IBS
+8,9,3,5,3,4,2,21,0,Vegetarian,IBS
+7,6,4,6,2,4,3,36,0,Non-Vegetarian,IBS
+7,5,4,5,2,4,2,20,0,Vegan,IBS
+8,9,2,5,2,4,3,21,0,Non-Vegetarian,IBS
+6,5,2,5,1,4,2,28,0,Vegan,IBS
+7,5,4,6,1,4,3,23,0,Vegetarian,IBS
+6,6,3,5,1,3,2,32,0,Non-Vegetarian,IBS
+8,5,2,7,1,4,3,26,0,Vegetarian,IBS
+7,8,2,5,1,3,3,36,0,Vegetarian,IBS
+6,6,4,7,2,4,3,21,0,Vegetarian,IBS
+7,9,3,6,2,4,2,48,0,Vegetarian,IBS
+8,9,3,5,3,4,3,34,0,Vegetarian,IBS
+7,6,4,7,1,3,2,30,0,Vegan,IBS
+7,9,4,5,3,3,2,23,0,Non-Vegetarian,IBS
+6,7,3,6,1,4,3,40,0,Vegan,IBS
+7,9,4,7,2,4,3,37,0,Vegetarian,IBS
+5,8,3,5,2,3,2,31,0,Vegan,IBS
+5,5,3,5,2,4,3,39,0,Vegetarian,IBS
+7,5,2,6,3,3,2,42,0,Vegetarian,IBS
+5,8,2,6,1,3,3,43,0,Vegetarian,IBS
+5,6,2,6,3,3,3,37,0,Non-Vegetarian,IBS
+8,8,4,6,1,4,2,23,0,Vegan,IBS
+7,6,2,7,1,3,3,21,0,Vegetarian,IBS
+5,5,3,5,3,3,3,26,0,Vegetarian,IBS
+6,5,3,5,1,3,3,44,0,Non-Vegetarian,IBS
+7,9,3,7,2,4,2,26,0,Non-Vegetarian,IBS
+7,8,3,7,2,4,3,26,0,Non-Vegetarian,IBS
+8,9,2,7,1,4,2,46,0,Vegetarian,IBS
+7,8,2,5,2,4,2,31,0,Vegan,IBS
+5,6,4,6,1,4,2,41,0,Vegetarian,IBS
+7,8,3,6,1,3,3,42,0,Vegetarian,IBS
+8,8,3,5,1,3,2,34,0,Vegan,IBS
+8,6,3,6,1,3,3,31,0,Vegetarian,IBS
+8,8,4,6,1,3,3,38,0,Vegan,IBS
+5,8,2,5,2,3,3,25,0,Vegan,IBS
+8,5,2,6,2,3,3,23,0,Vegetarian,IBS
+6,9,3,5,1,4,2,44,0,Vegetarian,IBS
+7,7,3,7,2,4,3,42,0,Vegan,IBS
+6,7,4,6,1,4,3,31,0,Non-Vegetarian,IBS
+6,6,2,7,2,4,3,49,0,Non-Vegetarian,IBS
+7,8,3,5,3,3,2,21,0,Vegan,IBS
+7,6,3,6,2,3,3,44,0,Vegetarian,IBS
+5,8,4,6,1,4,3,41,0,Non-Vegetarian,IBS
+8,7,4,5,2,3,2,40,0,Vegan,IBS
+5,6,2,7,1,4,3,47,0,Vegetarian,IBS
+6,8,3,5,3,4,3,48,0,Vegan,IBS
+6,8,4,7,3,3,2,38,0,Vegan,IBS
+5,6,3,7,2,3,2,43,0,Vegan,IBS
+7,7,2,7,1,3,3,49,0,Vegan,IBS
+7,8,2,7,1,3,2,47,0,Vegetarian,IBS
+8,8,3,7,2,3,2,39,0,Vegetarian,IBS
+8,9,4,7,3,4,3,33,0,Vegan,IBS
+5,9,3,7,2,4,2,40,0,Vegan,IBS
+7,9,3,7,2,4,2,24,0,Vegan,IBS
+5,6,3,5,1,3,3,24,0,Non-Vegetarian,IBS
+8,5,4,5,3,3,2,39,0,Vegan,IBS
+5,6,3,6,2,4,2,28,0,Vegetarian,IBS
+5,6,2,6,1,3,2,36,0,Vegetarian,IBS
+5,5,3,5,1,4,3,45,0,Vegan,IBS
+8,9,4,7,2,4,2,41,0,Vegetarian,IBS
+7,5,4,5,3,3,3,31,0,Vegetarian,IBS
+5,9,2,7,3,3,2,38,0,Vegan,IBS
+8,5,2,5,2,3,3,23,0,Vegetarian,IBS
+7,7,4,7,3,3,3,24,0,Vegetarian,IBS
+6,6,3,7,1,3,3,27,0,Vegetarian,IBS
+6,6,4,5,2,4,3,28,0,Vegetarian,IBS
+6,6,3,5,3,4,3,41,0,Vegetarian,IBS
+8,8,3,7,2,3,2,27,0,Vegetarian,IBS
+5,5,4,6,2,3,3,41,0,Vegan,IBS
+8,9,4,6,1,4,2,22,0,Vegetarian,IBS
+6,5,2,7,2,3,2,49,0,Vegetarian,IBS
+8,8,4,6,2,3,2,41,0,Vegetarian,IBS
+5,6,3,5,1,3,3,46,0,Non-Vegetarian,IBS
+7,7,4,5,2,3,2,48,0,Non-Vegetarian,IBS
+7,7,4,5,2,3,3,34,0,Non-Vegetarian,IBS
+5,6,3,5,1,3,2,23,0,Vegan,IBS
+8,6,3,7,1,4,2,33,0,Vegetarian,IBS
+7,6,2,5,1,4,3,41,0,Non-Vegetarian,IBS
+6,8,2,6,2,3,3,40,0,Vegetarian,IBS
+7,7,4,7,2,4,2,24,0,Vegan,IBS
+7,9,3,6,3,4,2,25,0,Vegetarian,IBS
+8,9,3,6,2,4,3,44,0,Vegetarian,IBS
+5,8,2,6,3,4,2,35,0,Vegan,IBS
+8,8,3,6,2,4,2,47,0,Non-Vegetarian,IBS
+5,7,3,5,2,4,3,40,0,Non-Vegetarian,IBS
+8,7,2,6,3,3,2,20,0,Vegan,IBS
+8,5,4,7,3,3,2,47,0,Vegan,IBS
+5,5,3,7,3,3,3,34,0,Non-Vegetarian,IBS
+7,5,3,5,1,4,2,29,0,Vegetarian,IBS
+5,7,2,6,2,4,2,25,0,Vegetarian,IBS
+5,7,2,7,2,3,3,45,0,Non-Vegetarian,IBS
+5,9,2,5,2,4,2,23,0,Vegan,IBS
+8,6,4,5,1,4,3,28,0,Vegan,IBS
+8,8,2,7,1,4,2,49,0,Vegan,IBS
+6,8,4,7,3,4,3,43,0,Non-Vegetarian,IBS
+8,6,2,5,2,4,2,32,0,Non-Vegetarian,IBS
+7,8,3,6,3,3,2,23,0,Vegetarian,IBS
+7,6,4,7,3,3,3,45,0,Vegetarian,IBS
+8,5,2,6,1,4,2,22,0,Non-Vegetarian,IBS
+5,5,4,7,1,3,3,31,0,Vegetarian,IBS
+5,5,3,5,3,4,2,26,0,Vegetarian,IBS
+5,5,2,5,2,4,3,30,0,Vegan,IBS
+6,5,2,6,2,4,3,21,0,Vegetarian,IBS
+5,9,3,6,1,4,3,21,0,Non-Vegetarian,IBS
+7,9,4,6,3,4,3,47,0,Vegetarian,IBS
+7,7,4,5,3,3,3,45,0,Vegetarian,IBS
+6,8,3,7,1,3,3,39,0,Non-Vegetarian,IBS
+7,9,2,6,2,3,2,21,0,Vegan,IBS
+6,7,2,6,3,4,2,39,0,Vegetarian,IBS
+7,6,4,7,1,3,2,43,0,Vegan,IBS
+8,8,2,5,1,4,2,28,0,Vegetarian,IBS
+8,6,3,6,2,3,3,22,0,Vegetarian,IBS
+7,6,4,6,1,4,2,42,0,Vegan,IBS
+5,8,4,5,2,4,3,41,0,Non-Vegetarian,IBS
+5,8,4,6,3,4,2,32,0,Non-Vegetarian,IBS
+5,9,3,6,2,3,2,42,0,Vegan,IBS
+5,5,4,5,1,4,3,45,0,Vegan,IBS
+5,7,2,5,1,4,3,37,0,Vegan,IBS
+8,8,2,7,2,3,3,31,0,Vegetarian,IBS
+8,6,3,7,2,4,3,40,0,Vegan,IBS
+6,5,2,7,2,3,2,34,0,Vegan,IBS
+7,5,4,6,1,3,3,30,0,Non-Vegetarian,IBS
+7,7,2,5,2,4,2,27,0,Vegan,IBS
+7,5,2,7,3,4,2,22,0,Vegetarian,IBS
+5,9,4,5,1,3,3,39,0,Non-Vegetarian,IBS
+8,5,4,5,3,4,2,34,0,Vegan,IBS
+5,7,4,7,3,3,3,43,0,Vegetarian,IBS
+6,8,2,6,3,3,3,33,0,Vegetarian,IBS
+5,5,3,6,2,3,3,35,0,Non-Vegetarian,IBS
+6,7,4,6,3,3,3,39,0,Non-Vegetarian,IBS
+6,5,4,7,1,4,2,34,0,Vegetarian,IBS
+8,9,2,5,2,3,3,20,0,Vegetarian,IBS
+5,7,2,7,1,3,3,49,0,Vegetarian,IBS
+7,8,3,5,1,4,3,28,0,Non-Vegetarian,IBS
+7,9,3,5,2,4,2,30,0,Non-Vegetarian,IBS
+6,9,4,5,1,4,3,24,0,Vegetarian,IBS
+5,9,2,5,1,3,3,22,0,Non-Vegetarian,IBS
+8,5,2,7,3,4,3,41,0,Vegetarian,IBS
+7,5,4,6,1,4,3,40,0,Vegetarian,IBS
+8,5,2,7,3,3,3,47,0,Vegan,IBS
+8,9,4,6,2,4,3,46,0,Non-Vegetarian,IBS
+5,5,3,5,1,4,3,45,0,Non-Vegetarian,IBS
+7,8,3,5,1,3,2,36,0,Vegetarian,IBS
+6,7,2,5,1,3,3,36,0,Vegan,IBS
+6,7,2,6,3,3,2,36,0,Vegan,IBS
+6,7,3,6,1,3,3,24,0,Vegan,IBS
+5,9,4,7,3,3,2,26,0,Vegetarian,IBS
+7,7,4,5,3,4,2,20,0,Vegetarian,IBS
+7,8,2,5,1,4,2,35,0,Vegan,IBS
+6,8,3,5,1,3,3,42,0,Non-Vegetarian,IBS
+7,5,4,6,2,4,3,49,0,Non-Vegetarian,IBS
+8,6,2,7,3,4,3,39,0,Non-Vegetarian,IBS
+8,6,4,7,1,3,3,48,0,Vegetarian,IBS
+6,7,4,5,2,4,3,38,0,Non-Vegetarian,IBS
+5,8,4,6,3,3,3,48,0,Vegan,IBS
+8,6,2,5,2,4,2,30,0,Vegetarian,IBS
+5,6,2,5,2,3,2,44,0,Non-Vegetarian,IBS
+5,8,2,6,3,4,3,22,0,Vegan,IBS
+5,9,3,6,2,4,3,21,0,Vegetarian,IBS
+7,8,4,5,3,3,3,30,0,Vegetarian,IBS
+6,7,2,6,1,4,2,21,0,Vegan,IBS
+5,8,2,5,1,3,3,38,0,Vegan,IBS
+8,6,4,7,3,3,2,49,0,Vegetarian,IBS
+5,9,3,6,1,3,3,36,0,Vegan,IBS
+5,7,4,7,1,4,3,46,0,Vegan,IBS
+7,7,3,7,2,4,2,48,0,Vegetarian,IBS
+6,6,2,6,1,3,3,47,0,Vegetarian,IBS
+7,8,3,5,1,3,2,46,0,Non-Vegetarian,IBS
+8,5,2,6,1,3,2,36,0,Vegetarian,IBS
+5,9,4,7,3,3,3,21,0,Vegan,IBS
+7,6,2,5,2,3,3,40,0,Non-Vegetarian,IBS
+7,8,4,5,3,4,2,22,0,Vegan,IBS
+6,7,4,5,1,3,3,37,0,Vegetarian,IBS
+5,6,4,5,3,3,3,47,0,Non-Vegetarian,IBS
+5,8,3,7,3,4,2,40,0,Vegetarian,IBS
+6,9,4,6,1,4,2,26,0,Vegan,IBS
+5,8,2,6,2,4,3,36,0,Non-Vegetarian,IBS
+6,8,3,7,3,4,3,25,0,Vegetarian,IBS
+6,7,4,5,3,4,2,38,0,Non-Vegetarian,IBS
+7,6,4,7,3,3,3,26,0,Non-Vegetarian,IBS
+8,5,2,5,1,3,2,27,0,Vegan,IBS
+6,7,4,5,1,3,3,48,0,Non-Vegetarian,IBS
+8,6,3,5,2,3,2,41,0,Vegetarian,IBS
+8,9,3,5,3,4,3,44,0,Non-Vegetarian,IBS
+7,7,3,6,1,4,2,49,0,Vegan,IBS
+5,8,2,5,1,3,2,32,0,Non-Vegetarian,IBS
+5,8,2,7,1,4,2,21,0,Vegan,IBS
+7,5,3,6,2,4,3,49,0,Vegan,IBS
+7,7,4,6,1,3,3,21,0,Vegan,IBS
+7,7,3,6,1,3,3,29,0,Vegan,IBS
+6,8,3,6,2,3,3,34,0,Vegan,IBS
+6,7,4,6,2,3,2,41,0,Vegetarian,IBS
+5,5,2,5,2,3,2,40,0,Vegan,IBS
+7,5,2,6,3,3,2,42,0,Non-Vegetarian,IBS
+6,6,3,6,2,4,3,33,0,Non-Vegetarian,IBS
+8,8,2,7,3,4,3,31,0,Vegetarian,IBS
+6,6,3,6,3,3,2,31,0,Vegetarian,IBS
+5,5,3,5,2,4,3,41,0,Non-Vegetarian,IBS
+7,6,2,6,1,4,2,48,0,Non-Vegetarian,IBS
+5,5,4,7,1,3,3,31,0,Vegetarian,IBS
+6,7,2,7,1,4,3,43,0,Non-Vegetarian,IBS
+5,5,3,7,2,3,2,47,0,Vegetarian,IBS
+8,6,4,7,1,3,2,32,0,Vegan,IBS
+8,8,4,5,3,3,3,28,0,Vegan,IBS
+7,7,2,6,1,3,3,35,0,Vegetarian,IBS
+8,5,4,7,2,4,3,22,0,Vegetarian,IBS
+8,5,2,6,1,3,3,21,0,Vegan,IBS
+5,7,3,6,1,4,2,42,0,Vegetarian,IBS
+6,5,4,6,3,4,3,31,0,Vegan,IBS
+8,5,2,7,3,3,2,36,0,Vegan,IBS
+6,9,4,5,2,4,2,24,0,Non-Vegetarian,IBS
+6,5,3,6,3,3,2,34,0,Vegetarian,IBS
+8,8,2,7,1,4,3,47,0,Vegetarian,IBS
+5,8,4,7,1,4,3,45,0,Non-Vegetarian,IBS
+6,9,3,7,3,4,2,21,0,Vegan,IBS
+7,9,2,5,3,4,2,39,0,Vegetarian,IBS
+8,7,2,5,3,4,2,38,0,Vegan,IBS
+7,5,4,5,1,4,2,23,0,Non-Vegetarian,IBS
+5,5,2,6,2,4,2,34,0,Vegan,IBS
+8,6,3,5,3,3,3,39,0,Vegetarian,IBS
+7,8,3,5,1,3,3,31,0,Vegetarian,IBS
+5,6,2,6,3,3,2,30,0,Non-Vegetarian,IBS
+8,8,4,7,3,3,2,36,0,Non-Vegetarian,IBS
+6,8,2,7,3,3,3,37,0,Vegetarian,IBS
+6,9,2,7,2,3,3,25,0,Vegetarian,IBS
+7,9,3,5,2,3,3,25,0,Non-Vegetarian,IBS
+6,6,3,6,2,3,2,49,0,Vegetarian,IBS
+6,9,2,7,1,3,3,30,0,Non-Vegetarian,IBS
+7,8,3,5,3,4,3,43,0,Non-Vegetarian,IBS
+6,5,4,5,1,4,2,42,0,Vegan,IBS
+6,6,3,6,3,3,2,48,0,Non-Vegetarian,IBS
+7,7,2,6,2,3,3,32,0,Non-Vegetarian,IBS
+6,8,4,6,1,3,2,36,0,Vegan,IBS
+8,6,3,5,2,4,2,24,0,Vegan,IBS
+5,8,3,7,3,3,3,29,0,Vegetarian,IBS
+6,7,3,5,3,3,2,22,0,Non-Vegetarian,IBS
+5,6,2,6,3,3,3,38,0,Vegetarian,IBS
+5,9,4,5,3,4,3,40,0,Vegan,IBS
+7,5,4,7,2,4,2,37,0,Non-Vegetarian,IBS
+5,8,2,7,2,4,2,37,0,Non-Vegetarian,IBS
+6,9,4,6,3,3,2,28,0,Vegan,IBS
+5,5,3,6,1,3,2,23,0,Vegetarian,IBS
+7,7,2,7,2,3,2,32,0,Vegetarian,IBS
+7,6,2,5,2,4,2,29,0,Non-Vegetarian,IBS
+6,8,2,5,1,4,2,35,0,Non-Vegetarian,IBS
+8,5,4,6,3,3,2,20,0,Vegetarian,IBS
+8,7,4,5,2,3,3,43,0,Vegetarian,IBS
+7,6,2,5,3,3,3,39,0,Vegetarian,IBS
+5,9,3,5,1,3,2,47,0,Vegetarian,IBS
+5,5,3,7,3,4,2,48,0,Vegetarian,IBS
+8,7,3,7,2,3,2,23,0,Non-Vegetarian,IBS
+5,9,4,6,2,4,3,24,0,Non-Vegetarian,IBS
+7,7,3,5,2,4,2,34,0,Non-Vegetarian,IBS
+7,9,3,5,1,4,2,42,0,Vegetarian,IBS
+6,7,3,7,2,3,2,30,0,Vegetarian,IBS
+6,3,6,3,2,3,1,24,0,Vegetarian,Crohn's Disease
+5,5,9,1,2,3,2,27,0,Vegan,Crohn's Disease
+6,3,8,3,3,3,1,49,0,Vegan,Crohn's Disease
+5,3,6,1,3,2,1,22,0,Non-Vegetarian,Crohn's Disease
+8,5,6,3,2,1,3,45,0,Non-Vegetarian,Crohn's Disease
+8,6,7,1,4,3,3,27,1,Vegetarian,Crohn's Disease
+6,3,8,3,2,3,2,44,1,Vegetarian,Crohn's Disease
+5,3,6,3,3,1,2,22,1,Vegan,Crohn's Disease
+7,4,6,3,4,2,2,38,1,Vegan,Crohn's Disease
+6,6,8,3,3,3,3,38,0,Vegetarian,Crohn's Disease
+8,3,6,2,2,3,1,46,0,Non-Vegetarian,Crohn's Disease
+5,3,9,2,2,2,3,20,0,Vegetarian,Crohn's Disease
+7,4,6,3,3,2,3,26,1,Vegetarian,Crohn's Disease
+6,5,8,3,3,3,3,41,1,Non-Vegetarian,Crohn's Disease
+8,4,8,2,2,1,2,49,1,Vegan,Crohn's Disease
+6,4,6,2,2,1,2,45,1,Vegan,Crohn's Disease
+5,6,8,3,4,2,2,44,1,Vegetarian,Crohn's Disease
+8,4,7,2,3,3,3,26,0,Non-Vegetarian,Crohn's Disease
+8,5,6,2,4,3,3,21,0,Vegan,Crohn's Disease
+7,4,8,3,3,1,1,35,1,Vegetarian,Crohn's Disease
+7,6,7,1,2,3,2,44,0,Non-Vegetarian,Crohn's Disease
+6,5,9,1,4,2,2,49,1,Vegetarian,Crohn's Disease
+5,3,9,3,2,1,3,20,0,Non-Vegetarian,Crohn's Disease
+6,4,9,2,3,1,2,37,1,Vegetarian,Crohn's Disease
+8,5,6,3,2,3,3,23,0,Non-Vegetarian,Crohn's Disease
+6,5,9,1,4,1,1,29,1,Vegan,Crohn's Disease
+7,3,6,3,4,3,3,20,0,Vegan,Crohn's Disease
+8,4,9,3,2,2,3,49,1,Vegetarian,Crohn's Disease
+6,4,9,3,3,2,2,38,0,Vegan,Crohn's Disease
+8,4,8,2,3,1,3,43,1,Vegan,Crohn's Disease
+6,4,6,1,2,2,3,44,0,Non-Vegetarian,Crohn's Disease
+5,4,6,1,3,3,1,21,1,Vegan,Crohn's Disease
+8,4,7,2,4,1,3,47,0,Vegetarian,Crohn's Disease
+8,5,7,1,2,2,3,48,0,Vegan,Crohn's Disease
+8,5,6,3,4,2,2,37,0,Non-Vegetarian,Crohn's Disease
+5,6,6,1,2,2,1,37,1,Non-Vegetarian,Crohn's Disease
+8,5,8,1,2,3,2,42,0,Non-Vegetarian,Crohn's Disease
+6,6,9,1,2,3,2,42,1,Vegetarian,Crohn's Disease
+6,3,7,2,4,1,1,40,1,Vegan,Crohn's Disease
+5,5,8,2,2,2,1,29,1,Vegetarian,Crohn's Disease
+8,5,7,1,4,2,1,48,0,Vegetarian,Crohn's Disease
+8,4,9,3,4,1,1,42,0,Non-Vegetarian,Crohn's Disease
+6,6,7,2,3,2,1,49,0,Vegan,Crohn's Disease
+6,5,7,2,3,3,3,23,0,Vegan,Crohn's Disease
+7,4,8,3,4,2,3,38,0,Non-Vegetarian,Crohn's Disease
+8,6,8,1,2,3,1,49,1,Vegetarian,Crohn's Disease
+8,5,7,1,2,2,2,38,1,Vegetarian,Crohn's Disease
+5,6,8,1,2,1,1,48,0,Non-Vegetarian,Crohn's Disease
+5,5,6,1,3,1,3,26,1,Non-Vegetarian,Crohn's Disease
+5,3,7,1,4,1,3,48,0,Non-Vegetarian,Crohn's Disease
+7,6,7,1,3,1,1,48,1,Non-Vegetarian,Crohn's Disease
+7,6,8,2,2,3,2,48,0,Non-Vegetarian,Crohn's Disease
+5,5,8,3,2,2,2,44,1,Non-Vegetarian,Crohn's Disease
+8,4,9,2,3,3,1,27,1,Vegan,Crohn's Disease
+5,3,6,2,3,1,1,41,0,Non-Vegetarian,Crohn's Disease
+7,4,6,3,4,3,2,33,0,Vegan,Crohn's Disease
+6,6,8,3,3,3,3,46,0,Non-Vegetarian,Crohn's Disease
+8,3,6,3,3,1,3,35,0,Non-Vegetarian,Crohn's Disease
+6,4,6,1,3,3,2,39,0,Vegetarian,Crohn's Disease
+8,6,6,3,4,1,3,47,0,Vegan,Crohn's Disease
+8,5,8,3,2,2,2,24,1,Non-Vegetarian,Crohn's Disease
+8,4,6,1,4,2,3,44,0,Vegan,Crohn's Disease
+6,4,9,2,4,3,1,45,1,Vegetarian,Crohn's Disease
+6,5,7,2,2,2,2,44,0,Non-Vegetarian,Crohn's Disease
+6,3,6,2,2,1,2,33,0,Vegetarian,Crohn's Disease
+6,4,8,1,4,3,3,42,0,Vegan,Crohn's Disease
+5,6,9,1,2,1,3,41,0,Non-Vegetarian,Crohn's Disease
+7,5,6,2,3,2,1,43,0,Vegetarian,Crohn's Disease
+7,3,8,1,3,2,2,27,0,Vegetarian,Crohn's Disease
+8,4,9,3,4,1,3,46,1,Non-Vegetarian,Crohn's Disease
+5,5,8,3,4,1,1,36,1,Non-Vegetarian,Crohn's Disease
+5,5,7,3,3,3,1,22,0,Vegan,Crohn's Disease
+8,4,6,3,4,3,2,22,1,Vegetarian,Crohn's Disease
+5,4,8,1,2,1,3,38,0,Non-Vegetarian,Crohn's Disease
+7,3,9,3,4,3,2,21,0,Vegetarian,Crohn's Disease
+7,3,8,1,3,2,1,29,1,Vegetarian,Crohn's Disease
+7,6,8,1,3,3,3,41,0,Non-Vegetarian,Crohn's Disease
+5,6,6,3,2,3,3,44,1,Vegan,Crohn's Disease
+7,3,9,3,2,3,2,41,1,Vegetarian,Crohn's Disease
+6,4,7,2,2,3,3,30,0,Vegetarian,Crohn's Disease
+8,4,7,3,3,2,1,32,1,Non-Vegetarian,Crohn's Disease
+6,6,7,2,4,3,2,39,0,Vegetarian,Crohn's Disease
+6,3,9,3,3,2,3,26,1,Non-Vegetarian,Crohn's Disease
+8,6,8,1,4,3,1,22,0,Vegan,Crohn's Disease
+5,5,8,3,2,3,3,40,0,Vegetarian,Crohn's Disease
+7,3,8,1,2,2,2,48,0,Vegetarian,Crohn's Disease
+6,5,9,2,3,3,2,25,1,Vegan,Crohn's Disease
+7,3,9,3,2,2,1,27,0,Vegan,Crohn's Disease
+7,6,8,2,2,2,2,26,0,Vegetarian,Crohn's Disease
+5,6,9,1,3,2,3,37,0,Non-Vegetarian,Crohn's Disease
+7,6,8,2,3,3,3,30,1,Non-Vegetarian,Crohn's Disease
+5,6,7,2,3,3,2,42,0,Vegetarian,Crohn's Disease
+7,4,6,3,3,1,2,28,0,Vegetarian,Crohn's Disease
+6,5,9,1,4,2,3,34,1,Non-Vegetarian,Crohn's Disease
+5,6,6,2,4,1,2,32,1,Vegetarian,Crohn's Disease
+8,4,8,3,2,3,2,35,0,Vegetarian,Crohn's Disease
+5,6,7,1,2,1,1,24,1,Non-Vegetarian,Crohn's Disease
+8,4,7,3,3,3,1,32,1,Vegan,Crohn's Disease
+6,6,9,1,3,3,3,32,0,Non-Vegetarian,Crohn's Disease
+8,3,7,3,3,1,2,33,0,Non-Vegetarian,Crohn's Disease
+8,5,9,1,4,3,1,24,0,Vegetarian,Crohn's Disease
+5,5,7,1,3,3,3,41,1,Vegetarian,Crohn's Disease
+6,4,6,1,2,2,1,20,0,Vegan,Crohn's Disease
+6,6,7,3,2,3,2,27,0,Vegan,Crohn's Disease
+7,3,8,1,2,1,1,35,1,Non-Vegetarian,Crohn's Disease
+7,3,7,3,2,2,1,33,1,Vegan,Crohn's Disease
+5,4,6,3,2,3,3,28,0,Non-Vegetarian,Crohn's Disease
+5,5,9,2,2,1,1,41,1,Non-Vegetarian,Crohn's Disease
+7,4,9,1,4,1,1,33,1,Vegan,Crohn's Disease
+7,4,9,1,4,2,2,38,1,Vegan,Crohn's Disease
+5,3,9,2,2,1,1,27,1,Vegetarian,Crohn's Disease
+6,4,6,1,4,2,1,36,0,Vegetarian,Crohn's Disease
+5,3,8,2,4,3,3,47,1,Vegetarian,Crohn's Disease
+8,4,9,2,3,3,1,38,1,Vegetarian,Crohn's Disease
+5,5,9,2,2,2,1,28,0,Vegetarian,Crohn's Disease
+7,4,9,3,3,3,1,29,0,Non-Vegetarian,Crohn's Disease
+7,6,9,2,3,3,1,34,0,Vegetarian,Crohn's Disease
+8,5,7,1,2,3,2,22,0,Vegetarian,Crohn's Disease
+6,3,7,2,4,3,1,22,1,Vegan,Crohn's Disease
+7,5,9,1,2,2,3,21,1,Vegetarian,Crohn's Disease
+8,5,9,3,4,1,2,44,1,Non-Vegetarian,Crohn's Disease
+5,3,9,1,3,1,2,48,1,Vegan,Crohn's Disease
+7,4,7,2,4,2,1,40,1,Vegetarian,Crohn's Disease
+6,3,8,3,4,3,2,40,1,Vegetarian,Crohn's Disease
+7,6,8,2,3,1,1,27,1,Non-Vegetarian,Crohn's Disease
+5,4,6,1,4,1,3,32,1,Vegan,Crohn's Disease
+7,6,7,1,4,2,3,47,0,Non-Vegetarian,Crohn's Disease
+5,5,9,3,2,1,2,47,1,Vegan,Crohn's Disease
+7,4,6,3,3,3,3,39,0,Vegetarian,Crohn's Disease
+6,6,6,3,2,1,1,29,0,Non-Vegetarian,Crohn's Disease
+5,4,7,3,2,2,3,36,0,Vegan,Crohn's Disease
+5,4,6,2,2,2,3,33,0,Vegan,Crohn's Disease
+7,4,6,3,2,1,3,40,0,Vegan,Crohn's Disease
+5,4,7,1,4,1,2,45,1,Vegetarian,Crohn's Disease
+6,4,8,2,3,1,1,33,1,Vegan,Crohn's Disease
+8,5,8,3,4,3,3,31,1,Vegetarian,Crohn's Disease
+8,6,8,2,2,1,1,26,0,Vegan,Crohn's Disease
+8,6,6,2,3,2,1,35,0,Vegan,Crohn's Disease
+8,5,9,2,2,2,1,21,1,Vegan,Crohn's Disease
+8,5,8,3,2,3,1,21,1,Non-Vegetarian,Crohn's Disease
+7,5,7,1,2,3,2,29,0,Vegan,Crohn's Disease
+5,3,8,2,4,2,1,42,1,Vegetarian,Crohn's Disease
+6,3,7,1,4,2,2,37,0,Vegetarian,Crohn's Disease
+5,3,7,2,4,3,3,29,0,Non-Vegetarian,Crohn's Disease
+8,5,9,1,2,3,1,41,1,Vegetarian,Crohn's Disease
+5,6,7,3,4,1,3,29,0,Vegetarian,Crohn's Disease
+7,4,6,2,2,3,1,28,0,Vegetarian,Crohn's Disease
+7,3,8,3,3,1,2,32,1,Vegetarian,Crohn's Disease
+6,4,7,1,3,2,2,42,1,Vegan,Crohn's Disease
+7,6,9,2,3,3,3,30,1,Non-Vegetarian,Crohn's Disease
+7,5,6,2,3,1,2,37,0,Vegan,Crohn's Disease
+5,5,7,3,2,3,2,35,0,Non-Vegetarian,Crohn's Disease
+7,5,9,2,2,3,2,21,0,Vegetarian,Crohn's Disease
+7,5,9,3,4,3,3,33,0,Vegan,Crohn's Disease
+5,4,8,1,4,1,1,43,0,Vegan,Crohn's Disease
+6,6,9,2,2,3,1,49,0,Vegetarian,Crohn's Disease
+7,3,9,1,2,1,3,34,0,Vegetarian,Crohn's Disease
+7,3,7,1,2,3,3,39,1,Non-Vegetarian,Crohn's Disease
+7,6,7,2,3,1,2,23,1,Vegetarian,Crohn's Disease
+6,3,8,2,3,1,2,39,1,Vegan,Crohn's Disease
+7,5,8,2,3,3,3,44,0,Vegetarian,Crohn's Disease
+6,4,6,3,3,3,1,41,1,Vegan,Crohn's Disease
+6,3,7,1,3,3,3,23,1,Non-Vegetarian,Crohn's Disease
+8,5,6,1,2,3,3,40,1,Vegetarian,Crohn's Disease
+6,4,7,1,3,3,1,30,0,Vegan,Crohn's Disease
+5,6,8,2,4,2,3,36,1,Non-Vegetarian,Crohn's Disease
+5,5,9,1,3,3,2,29,1,Vegan,Crohn's Disease
+6,5,9,2,4,3,1,22,0,Vegetarian,Crohn's Disease
+5,4,7,1,3,2,2,39,0,Non-Vegetarian,Crohn's Disease
+5,4,9,2,2,1,1,41,0,Vegan,Crohn's Disease
+8,3,7,1,3,3,3,28,1,Vegan,Crohn's Disease
+5,4,9,1,3,1,2,44,0,Vegan,Crohn's Disease
+8,4,6,3,3,3,2,44,1,Vegan,Crohn's Disease
+8,3,9,1,4,1,2,33,0,Vegetarian,Crohn's Disease
+6,4,9,2,3,2,1,23,1,Non-Vegetarian,Crohn's Disease
+5,6,9,1,2,1,2,25,0,Vegan,Crohn's Disease
+7,6,8,1,2,3,2,26,0,Non-Vegetarian,Crohn's Disease
+8,3,6,3,3,1,3,33,0,Vegan,Crohn's Disease
+5,4,8,2,2,1,3,39,1,Vegan,Crohn's Disease
+6,5,8,1,2,3,3,36,1,Vegan,Crohn's Disease
+6,5,9,1,4,3,1,28,1,Non-Vegetarian,Crohn's Disease
+7,4,7,1,2,3,1,27,0,Vegetarian,Crohn's Disease
+7,6,8,3,4,2,3,48,0,Vegan,Crohn's Disease
+8,4,8,1,4,2,1,34,0,Vegetarian,Crohn's Disease
+8,4,9,1,4,1,3,47,0,Vegetarian,Crohn's Disease
+8,6,6,1,4,3,2,38,1,Vegetarian,Crohn's Disease
+5,3,9,1,3,3,1,32,1,Vegan,Crohn's Disease
+8,6,7,2,4,2,3,30,0,Non-Vegetarian,Crohn's Disease
+8,5,9,3,4,3,3,42,0,Vegetarian,Crohn's Disease
+7,5,7,2,4,3,2,33,1,Vegetarian,Crohn's Disease
+8,3,8,3,3,3,3,30,1,Non-Vegetarian,Crohn's Disease
+8,4,7,2,4,3,1,24,0,Vegetarian,Crohn's Disease
+5,3,6,1,3,2,1,39,1,Vegetarian,Crohn's Disease
+5,5,7,2,4,2,1,42,1,Vegetarian,Crohn's Disease
+7,5,6,2,2,2,1,38,0,Vegan,Crohn's Disease
+7,4,9,1,4,2,2,39,0,Vegan,Crohn's Disease
+8,3,8,2,3,3,3,40,0,Vegetarian,Crohn's Disease
+6,6,8,1,3,3,2,36,1,Vegan,Crohn's Disease
+6,3,8,1,3,2,3,39,0,Vegan,Crohn's Disease
+8,4,9,1,4,2,2,23,1,Vegetarian,Crohn's Disease
+5,3,8,1,4,2,3,30,1,Non-Vegetarian,Crohn's Disease
+6,6,9,1,4,3,3,46,0,Vegetarian,Crohn's Disease
+7,6,7,2,4,1,2,49,0,Non-Vegetarian,Crohn's Disease
+8,4,9,2,3,1,3,26,1,Vegetarian,Crohn's Disease
+6,5,7,1,3,2,2,38,1,Vegetarian,Crohn's Disease
+5,4,6,2,2,2,1,31,1,Vegan,Crohn's Disease
+5,4,6,3,2,1,3,49,0,Vegetarian,Crohn's Disease
+7,3,9,2,3,3,3,30,0,Non-Vegetarian,Crohn's Disease
+6,3,9,3,4,2,3,23,0,Vegan,Crohn's Disease
+6,3,9,2,3,3,2,29,1,Vegetarian,Crohn's Disease
+7,5,9,3,3,3,3,42,0,Vegan,Crohn's Disease
+6,6,6,3,2,2,1,46,0,Vegetarian,Crohn's Disease
+7,5,6,3,4,3,3,29,0,Vegetarian,Crohn's Disease
+6,6,8,2,2,1,3,22,0,Non-Vegetarian,Crohn's Disease
+8,5,9,3,2,3,1,27,1,Vegetarian,Crohn's Disease
+8,3,9,2,2,1,1,26,0,Vegan,Crohn's Disease
+5,4,9,1,2,1,2,30,1,Vegetarian,Crohn's Disease
+5,3,7,1,2,2,2,35,1,Vegan,Crohn's Disease
+7,5,7,3,2,3,1,37,1,Vegan,Crohn's Disease
+8,4,8,3,2,3,3,34,0,Vegetarian,Crohn's Disease
+8,3,9,2,2,2,3,45,1,Non-Vegetarian,Crohn's Disease
+8,5,7,1,2,1,1,39,0,Non-Vegetarian,Crohn's Disease
+6,4,8,1,3,3,3,31,0,Vegan,Crohn's Disease
+5,5,8,3,4,3,1,45,1,Non-Vegetarian,Crohn's Disease
+8,6,6,1,4,3,3,41,0,Non-Vegetarian,Crohn's Disease
+6,6,8,3,2,3,3,39,1,Vegan,Crohn's Disease
+6,5,7,3,4,2,1,49,1,Non-Vegetarian,Crohn's Disease
+8,6,9,3,2,2,3,42,1,Vegetarian,Crohn's Disease
+5,3,6,1,3,3,3,42,0,Vegetarian,Crohn's Disease
+6,3,8,2,4,3,1,40,0,Vegetarian,Crohn's Disease
+5,6,7,3,4,3,2,26,1,Vegetarian,Crohn's Disease
+6,5,6,1,2,1,3,40,1,Vegetarian,Crohn's Disease
+5,3,8,1,3,1,1,47,1,Vegan,Crohn's Disease
+6,3,7,3,2,1,2,25,0,Vegetarian,Crohn's Disease
+8,5,8,1,4,1,3,37,1,Vegetarian,Crohn's Disease
+8,3,8,2,2,1,1,36,1,Vegetarian,Crohn's Disease
+5,6,7,1,4,3,3,44,1,Non-Vegetarian,Crohn's Disease
+5,4,8,1,3,3,2,21,0,Vegetarian,Crohn's Disease
+5,4,7,1,4,3,3,29,1,Non-Vegetarian,Crohn's Disease
+6,6,9,1,2,3,3,23,1,Vegetarian,Crohn's Disease
+5,4,9,1,4,3,1,39,1,Vegetarian,Crohn's Disease
+7,4,8,2,2,1,2,32,1,Vegan,Crohn's Disease
+8,5,9,3,3,1,2,40,0,Non-Vegetarian,Crohn's Disease
+6,3,9,1,2,2,1,39,1,Vegetarian,Crohn's Disease
+8,5,8,3,2,3,1,33,0,Non-Vegetarian,Crohn's Disease
+7,3,8,2,4,1,1,21,1,Vegetarian,Crohn's Disease
+8,4,8,2,4,2,3,37,0,Vegetarian,Crohn's Disease
+5,5,7,3,4,2,3,49,1,Non-Vegetarian,Crohn's Disease
+8,5,6,3,4,3,2,36,1,Vegetarian,Crohn's Disease
+6,5,6,1,4,2,3,27,0,Vegetarian,Crohn's Disease
+7,4,6,3,2,1,3,46,1,Vegan,Crohn's Disease
+6,6,7,3,3,1,2,44,0,Vegetarian,Crohn's Disease
+7,4,8,3,3,2,3,30,1,Vegan,Crohn's Disease
+6,6,6,2,4,2,3,27,1,Vegan,Crohn's Disease
+6,5,8,1,2,1,1,27,1,Vegan,Crohn's Disease
+7,5,7,1,4,3,1,46,0,Vegan,Crohn's Disease
+7,3,8,3,3,1,1,37,0,Vegetarian,Crohn's Disease
+7,5,6,3,2,3,3,49,0,Vegetarian,Crohn's Disease
+8,3,6,3,4,1,3,37,0,Non-Vegetarian,Crohn's Disease
+7,5,7,3,4,2,3,27,1,Vegetarian,Crohn's Disease
+5,3,7,1,3,1,1,20,0,Vegan,Crohn's Disease
+6,3,6,2,3,2,3,48,0,Vegan,Crohn's Disease
+5,4,7,3,3,2,1,24,1,Vegetarian,Crohn's Disease
+5,6,6,1,2,2,3,24,1,Vegetarian,Crohn's Disease
+5,5,6,2,4,2,1,26,0,Vegetarian,Crohn's Disease
+7,3,6,1,4,1,1,27,0,Non-Vegetarian,Crohn's Disease
+6,3,8,2,3,2,2,42,1,Non-Vegetarian,Crohn's Disease
+5,4,8,1,4,1,1,43,0,Vegan,Crohn's Disease
+7,5,8,1,3,1,3,23,1,Vegan,Crohn's Disease
+6,5,7,2,2,1,2,41,0,Vegetarian,Crohn's Disease
+7,3,7,1,4,2,3,41,0,Non-Vegetarian,Crohn's Disease
+6,6,8,3,3,2,3,27,0,Non-Vegetarian,Crohn's Disease
+8,4,6,2,4,1,1,45,0,Vegan,Crohn's Disease
+8,4,8,3,3,3,2,27,0,Vegan,Crohn's Disease
+8,6,8,3,4,2,3,44,0,Vegetarian,Crohn's Disease
+6,3,7,3,3,1,3,28,1,Non-Vegetarian,Crohn's Disease
+6,6,7,3,3,1,2,33,1,Non-Vegetarian,Crohn's Disease
+8,4,8,3,4,1,2,22,1,Vegan,Crohn's Disease
+5,3,7,1,2,3,1,46,1,Vegan,Crohn's Disease
+7,3,7,2,2,2,3,36,1,Non-Vegetarian,Crohn's Disease
+8,3,8,3,3,2,1,23,1,Vegetarian,Crohn's Disease
+8,5,7,2,3,1,1,24,1,Vegetarian,Crohn's Disease
+5,6,6,2,4,1,2,25,1,Vegan,Crohn's Disease
+5,5,8,2,2,3,3,31,1,Non-Vegetarian,Crohn's Disease
+8,3,8,3,2,1,1,21,1,Vegan,Crohn's Disease
+7,4,8,2,2,2,3,34,1,Vegetarian,Crohn's Disease
+5,3,6,3,4,3,2,37,1,Non-Vegetarian,Crohn's Disease
+5,4,9,2,4,2,3,45,1,Non-Vegetarian,Crohn's Disease
+6,6,6,1,3,3,3,34,0,Vegetarian,Crohn's Disease
+8,6,6,3,3,3,1,33,0,Vegetarian,Crohn's Disease
+7,6,7,3,2,3,1,42,0,Vegan,Crohn's Disease
+6,3,8,2,2,1,3,40,0,Vegan,Crohn's Disease
+8,4,9,1,2,1,1,21,0,Vegan,Crohn's Disease
+8,3,9,1,2,1,2,35,1,Non-Vegetarian,Crohn's Disease
+5,3,7,3,2,2,1,36,0,Vegan,Crohn's Disease
+5,3,7,1,2,2,1,48,0,Non-Vegetarian,Crohn's Disease
+8,6,9,3,4,1,1,34,0,Vegan,Crohn's Disease
+7,5,7,2,2,2,2,33,1,Vegetarian,Crohn's Disease
+5,5,7,1,3,3,1,31,1,Non-Vegetarian,Crohn's Disease
+7,5,8,1,4,2,3,27,1,Non-Vegetarian,Crohn's Disease
+7,4,7,1,3,2,1,36,0,Vegan,Crohn's Disease
+8,4,9,1,4,2,3,28,0,Vegan,Crohn's Disease
+6,5,6,2,2,1,3,22,1,Non-Vegetarian,Crohn's Disease
+7,4,7,2,2,2,1,32,1,Vegetarian,Crohn's Disease
+8,4,6,2,3,1,3,34,0,Vegetarian,Crohn's Disease
+8,6,7,3,3,3,3,31,1,Non-Vegetarian,Crohn's Disease
+6,6,8,2,2,2,2,32,1,Vegan,Crohn's Disease
+8,6,8,2,3,1,3,27,0,Non-Vegetarian,Crohn's Disease
+6,6,8,1,4,1,3,46,1,Vegan,Crohn's Disease
+7,4,6,3,2,1,1,34,0,Vegan,Crohn's Disease
+6,3,9,1,2,3,2,27,1,Non-Vegetarian,Crohn's Disease
+7,4,8,2,3,2,3,33,1,Non-Vegetarian,Crohn's Disease
+5,3,8,2,4,3,1,31,0,Vegan,Crohn's Disease
+6,4,6,2,2,2,1,38,1,Non-Vegetarian,Crohn's Disease
+6,4,9,1,4,3,3,44,1,Vegetarian,Crohn's Disease
+8,4,8,1,3,1,1,29,0,Vegetarian,Crohn's Disease
+6,4,6,2,2,2,2,26,1,Vegetarian,Crohn's Disease
+5,3,7,2,3,2,1,31,0,Non-Vegetarian,Crohn's Disease
+6,4,7,1,4,2,2,43,0,Vegetarian,Crohn's Disease
+5,6,7,1,2,2,3,43,0,Non-Vegetarian,Crohn's Disease
+8,3,9,2,4,2,2,44,1,Vegan,Crohn's Disease
+6,3,8,3,3,1,2,42,0,Vegan,Crohn's Disease
+8,3,6,2,3,3,1,24,0,Vegetarian,Crohn's Disease
+6,3,7,2,3,2,1,49,0,Vegan,Crohn's Disease
+8,3,8,2,3,2,1,34,0,Vegetarian,Crohn's Disease
+6,5,7,1,3,3,2,42,0,Vegan,Crohn's Disease
+8,6,7,1,2,2,1,35,1,Vegetarian,Crohn's Disease
+5,5,6,3,3,3,2,45,1,Non-Vegetarian,Crohn's Disease
+8,6,7,1,2,2,2,24,0,Non-Vegetarian,Crohn's Disease
+8,6,8,2,2,3,1,32,1,Non-Vegetarian,Crohn's Disease
+5,3,6,2,3,3,2,43,1,Non-Vegetarian,Crohn's Disease
+8,5,8,3,2,2,1,23,0,Vegetarian,Crohn's Disease
+5,5,6,1,2,1,1,46,1,Vegan,Crohn's Disease
+7,6,7,1,4,3,1,29,0,Vegetarian,Crohn's Disease
+5,6,9,1,2,1,2,39,0,Non-Vegetarian,Crohn's Disease
+5,4,7,2,2,3,2,32,1,Vegetarian,Crohn's Disease
+6,4,9,1,2,3,1,27,1,Non-Vegetarian,Crohn's Disease
+7,3,8,2,4,1,1,38,0,Vegan,Crohn's Disease
+6,6,8,2,2,3,2,23,1,Vegetarian,Crohn's Disease
+5,4,8,3,3,3,1,42,0,Vegetarian,Crohn's Disease
+5,3,8,1,3,3,2,35,0,Vegan,Crohn's Disease
+6,3,8,2,2,3,3,43,1,Non-Vegetarian,Crohn's Disease
+7,4,6,2,3,3,2,23,1,Vegetarian,Crohn's Disease
+7,5,7,1,4,2,3,34,0,Non-Vegetarian,Crohn's Disease
+7,5,7,3,2,2,1,34,1,Vegetarian,Crohn's Disease
+8,6,7,2,4,2,1,41,1,Non-Vegetarian,Crohn's Disease
+8,3,9,3,2,3,3,45,1,Vegetarian,Crohn's Disease
+7,5,9,1,2,3,1,37,1,Vegetarian,Crohn's Disease
+5,4,7,2,4,1,3,44,0,Vegetarian,Crohn's Disease
+6,4,6,3,3,2,1,32,0,Vegetarian,Crohn's Disease
+6,4,8,3,2,1,1,26,1,Non-Vegetarian,Crohn's Disease
+5,3,6,1,3,1,2,39,1,Vegetarian,Crohn's Disease
+7,5,9,2,2,1,2,43,1,Vegetarian,Crohn's Disease
+5,6,7,2,4,2,1,20,1,Vegetarian,Crohn's Disease
+8,5,9,2,4,2,2,44,1,Vegan,Crohn's Disease
+6,5,7,1,2,3,1,20,1,Non-Vegetarian,Crohn's Disease
+7,3,9,3,2,3,1,25,0,Vegan,Crohn's Disease
+8,3,7,1,4,3,2,38,0,Vegetarian,Crohn's Disease
+5,3,6,2,4,3,3,41,0,Non-Vegetarian,Crohn's Disease
+8,3,6,3,4,2,3,49,1,Non-Vegetarian,Crohn's Disease
+7,4,6,2,4,3,1,26,0,Vegan,Crohn's Disease
+6,3,6,2,2,1,3,43,1,Vegetarian,Crohn's Disease
+5,5,9,2,2,2,3,22,0,Non-Vegetarian,Crohn's Disease
+8,6,6,3,2,3,2,46,0,Non-Vegetarian,Crohn's Disease
+5,3,6,1,2,2,3,46,0,Vegetarian,Crohn's Disease
+8,4,7,2,4,2,3,26,1,Vegan,Crohn's Disease
+8,4,8,2,3,3,2,47,0,Vegetarian,Crohn's Disease
+7,3,7,3,4,3,2,24,1,Vegetarian,Crohn's Disease
+7,6,9,1,3,3,2,41,0,Vegan,Crohn's Disease
+5,4,8,3,2,1,3,44,0,Non-Vegetarian,Crohn's Disease
+8,4,7,2,4,2,2,29,1,Vegetarian,Crohn's Disease
+5,6,8,2,2,3,3,47,0,Vegetarian,Crohn's Disease
+6,4,7,2,2,2,3,49,0,Vegetarian,Crohn's Disease
+6,4,6,2,4,3,2,41,1,Vegan,Crohn's Disease
+8,3,9,1,4,1,2,23,0,Non-Vegetarian,Crohn's Disease
+8,4,8,1,3,1,3,32,0,Vegetarian,Crohn's Disease
+8,6,8,3,4,1,1,27,1,Vegetarian,Crohn's Disease
+8,6,6,1,3,2,1,46,1,Vegan,Crohn's Disease
+5,5,6,1,3,1,1,39,0,Vegan,Crohn's Disease
+7,4,7,3,4,3,3,22,1,Non-Vegetarian,Crohn's Disease
+5,6,8,3,2,1,1,40,1,Vegetarian,Crohn's Disease
+6,3,6,2,2,3,3,43,0,Vegetarian,Crohn's Disease
+7,3,9,2,3,2,3,27,0,Vegetarian,Crohn's Disease
+5,4,7,1,4,1,2,37,0,Vegetarian,Crohn's Disease
+7,3,6,3,3,1,3,46,1,Vegetarian,Crohn's Disease
+8,4,9,1,4,1,1,27,1,Vegetarian,Crohn's Disease
+6,4,8,1,4,2,2,41,0,Vegetarian,Crohn's Disease
+7,6,7,3,3,3,2,42,0,Vegan,Crohn's Disease
+7,4,9,2,3,1,1,35,0,Vegetarian,Crohn's Disease
+5,5,6,1,4,2,2,32,0,Vegan,Crohn's Disease
+6,5,6,3,3,1,3,47,1,Non-Vegetarian,Crohn's Disease
+6,6,8,3,2,1,2,48,0,Vegetarian,Crohn's Disease
+6,5,9,1,4,1,2,45,0,Vegan,Crohn's Disease
+7,5,7,2,3,3,3,34,1,Vegetarian,Crohn's Disease
+7,5,8,3,2,1,3,25,1,Vegan,Crohn's Disease
+6,4,7,1,3,1,1,21,0,Non-Vegetarian,Crohn's Disease
+7,4,7,2,2,1,3,25,1,Non-Vegetarian,Crohn's Disease
+5,4,7,1,2,1,2,25,0,Vegan,Crohn's Disease
+5,4,8,3,2,1,3,39,1,Non-Vegetarian,Crohn's Disease
+8,5,8,1,3,2,3,25,1,Vegetarian,Crohn's Disease
+6,4,6,3,2,1,3,25,0,Non-Vegetarian,Crohn's Disease
+7,3,9,2,3,3,2,44,1,Vegetarian,Crohn's Disease
+6,4,7,1,3,1,2,24,0,Vegetarian,Crohn's Disease
+8,3,9,2,3,3,2,40,0,Vegetarian,Crohn's Disease
+7,5,9,1,3,1,3,36,1,Vegetarian,Crohn's Disease
+7,3,6,2,4,2,1,46,1,Vegetarian,Crohn's Disease
+5,3,8,1,4,2,2,39,0,Vegetarian,Crohn's Disease
+6,3,7,2,2,2,2,45,1,Non-Vegetarian,Crohn's Disease
+6,3,9,3,2,1,1,46,1,Vegan,Crohn's Disease
+6,3,8,3,3,3,3,43,0,Vegetarian,Crohn's Disease
+6,3,6,3,3,3,3,36,0,Non-Vegetarian,Crohn's Disease
+7,3,7,3,2,3,2,38,1,Non-Vegetarian,Crohn's Disease
+5,4,8,2,3,3,1,29,0,Non-Vegetarian,Crohn's Disease
+7,5,9,3,2,2,1,24,1,Vegan,Crohn's Disease
+7,5,9,2,2,1,1,47,0,Vegetarian,Crohn's Disease
+6,6,6,3,2,2,3,20,0,Vegetarian,Crohn's Disease
+8,5,6,1,2,1,2,37,0,Vegetarian,Crohn's Disease
+6,3,9,3,4,3,1,41,0,Vegetarian,Crohn's Disease
+8,5,8,1,4,2,1,24,0,Vegan,Crohn's Disease
+6,5,6,3,3,3,2,34,1,Vegan,Crohn's Disease
+5,5,8,1,3,1,3,33,0,Vegetarian,Crohn's Disease
+5,4,7,2,4,1,1,32,0,Vegetarian,Crohn's Disease
+8,6,7,1,3,1,1,48,0,Vegetarian,Crohn's Disease
+6,6,7,1,4,1,2,37,0,Non-Vegetarian,Crohn's Disease
+8,5,7,3,4,2,2,29,0,Vegan,Crohn's Disease
+6,4,8,2,2,1,2,32,0,Vegetarian,Crohn's Disease
+8,6,6,2,2,2,1,32,1,Vegan,Crohn's Disease
+6,5,7,2,2,3,2,44,0,Vegan,Crohn's Disease
+6,4,8,2,2,3,1,26,1,Non-Vegetarian,Crohn's Disease
+5,4,6,2,2,3,3,21,0,Vegetarian,Crohn's Disease
+5,4,7,2,4,3,1,21,1,Vegan,Crohn's Disease
+6,4,8,3,2,3,2,44,1,Vegetarian,Crohn's Disease
+7,6,7,1,3,1,2,30,1,Vegetarian,Crohn's Disease
+5,6,9,2,3,1,3,49,0,Non-Vegetarian,Crohn's Disease
+8,4,9,2,2,3,1,38,1,Non-Vegetarian,Crohn's Disease
+5,5,8,3,4,3,2,46,0,Vegetarian,Crohn's Disease
+6,3,8,1,2,3,1,38,0,Non-Vegetarian,Crohn's Disease
+7,4,9,1,3,1,1,36,0,Vegan,Crohn's Disease
+5,6,6,3,4,1,3,37,0,Vegetarian,Crohn's Disease
+8,3,8,1,3,1,1,25,0,Non-Vegetarian,Crohn's Disease
+6,4,7,2,4,1,2,36,0,Vegan,Crohn's Disease
+6,4,7,2,3,2,3,31,1,Vegetarian,Crohn's Disease
+7,6,8,2,2,1,1,28,0,Vegetarian,Crohn's Disease
+5,5,9,2,2,1,2,38,1,Vegan,Crohn's Disease
+7,5,7,3,3,3,1,38,0,Non-Vegetarian,Crohn's Disease
+8,6,6,3,4,1,2,23,1,Vegetarian,Crohn's Disease
+7,3,7,1,2,2,1,32,0,Vegan,Crohn's Disease
+6,6,8,3,3,2,1,22,1,Vegan,Crohn's Disease
+7,4,6,3,3,1,3,21,0,Non-Vegetarian,Crohn's Disease
+7,5,9,2,2,3,2,33,1,Vegan,Crohn's Disease
+5,5,7,2,3,1,2,42,0,Vegan,Crohn's Disease
+7,4,8,2,4,1,1,46,0,Non-Vegetarian,Crohn's Disease
+8,5,9,2,3,2,3,49,0,Non-Vegetarian,Crohn's Disease
+5,5,8,1,3,3,1,26,1,Vegan,Crohn's Disease
+8,6,8,3,4,1,2,27,1,Non-Vegetarian,Crohn's Disease
+7,3,6,2,2,1,1,48,1,Non-Vegetarian,Crohn's Disease
+8,4,6,2,2,2,2,28,0,Vegetarian,Crohn's Disease
+7,3,6,3,2,1,3,22,1,Vegan,Crohn's Disease
+6,5,6,1,4,2,3,47,1,Vegetarian,Crohn's Disease
+8,6,7,1,3,2,1,32,0,Non-Vegetarian,Crohn's Disease
+8,6,7,3,2,2,3,37,1,Vegetarian,Crohn's Disease
+6,5,9,1,4,1,2,35,1,Non-Vegetarian,Crohn's Disease
+5,4,8,2,2,3,3,45,1,Non-Vegetarian,Crohn's Disease
+6,5,6,1,2,1,1,42,1,Non-Vegetarian,Crohn's Disease
+6,3,9,2,4,1,3,43,0,Vegetarian,Crohn's Disease
+6,3,8,2,2,1,1,41,1,Vegan,Crohn's Disease
+7,6,6,2,2,2,2,43,1,Vegetarian,Crohn's Disease
+6,3,6,2,4,1,3,35,1,Vegan,Crohn's Disease
+6,6,8,1,2,2,3,23,0,Vegan,Crohn's Disease
+6,6,8,1,3,1,1,48,0,Vegetarian,Crohn's Disease
+7,3,8,1,2,2,1,21,1,Vegetarian,Crohn's Disease
+5,4,7,2,4,2,3,45,0,Vegan,Crohn's Disease
+5,4,9,1,3,2,1,41,1,Vegetarian,Crohn's Disease
+8,4,7,2,2,2,1,47,0,Vegan,Crohn's Disease
+6,4,7,3,3,1,3,30,1,Non-Vegetarian,Crohn's Disease
+8,5,9,2,4,3,3,30,0,Non-Vegetarian,Crohn's Disease
+6,5,7,2,4,2,2,25,1,Non-Vegetarian,Crohn's Disease
+7,6,9,2,4,1,3,24,1,Vegan,Crohn's Disease
+6,4,7,3,2,3,3,31,1,Vegan,Crohn's Disease
+6,6,9,3,4,1,1,29,1,Vegan,Crohn's Disease
+6,3,9,2,4,1,1,23,0,Vegetarian,Crohn's Disease
+5,5,8,1,2,2,2,20,0,Vegan,Crohn's Disease
+5,5,8,2,3,2,2,22,1,Vegetarian,Crohn's Disease
+6,4,8,3,2,1,3,49,1,Vegan,Crohn's Disease
+5,6,7,2,4,2,3,37,0,Vegan,Crohn's Disease
+6,4,9,3,4,3,2,41,0,Non-Vegetarian,Crohn's Disease
+8,3,8,3,4,1,2,30,1,Vegan,Crohn's Disease
+5,4,9,3,3,2,2,47,0,Vegetarian,Crohn's Disease
+5,3,9,3,2,1,1,21,0,Vegetarian,Crohn's Disease
+7,4,6,1,3,3,3,27,0,Vegetarian,Crohn's Disease
+8,5,7,1,3,2,2,37,0,Vegetarian,Crohn's Disease
+6,6,6,3,4,3,2,45,1,Vegetarian,Crohn's Disease
+7,6,8,3,4,3,1,26,0,Vegetarian,Crohn's Disease
+6,3,9,3,3,1,1,29,0,Vegan,Crohn's Disease
+5,5,8,3,4,3,2,23,1,Vegetarian,Crohn's Disease
+5,5,8,2,2,2,3,49,1,Vegan,Crohn's Disease
+6,5,9,2,3,2,3,46,0,Vegetarian,Crohn's Disease
+6,4,6,3,3,1,1,29,1,Vegetarian,Crohn's Disease
+5,4,9,1,4,2,3,27,1,Vegetarian,Crohn's Disease
+5,5,9,1,3,1,1,49,1,Vegan,Crohn's Disease
+2,6,8,3,3,3,3,50,1,Vegetarian,Ulcerative Colitis
+4,6,7,3,3,2,2,51,1,Vegetarian,Ulcerative Colitis
+4,5,6,2,3,2,1,56,0,Vegetarian,Ulcerative Colitis
+4,6,8,1,2,3,2,49,1,Vegetarian,Ulcerative Colitis
+2,6,6,1,2,1,2,50,0,Vegetarian,Ulcerative Colitis
+4,3,6,1,2,3,2,37,0,Non-Vegetarian,Ulcerative Colitis
+4,5,9,2,2,1,1,54,1,Vegetarian,Ulcerative Colitis
+4,3,7,2,4,1,2,33,1,Vegetarian,Ulcerative Colitis
+4,3,9,3,3,3,3,33,1,Non-Vegetarian,Ulcerative Colitis
+2,5,9,1,3,1,3,36,1,Vegan,Ulcerative Colitis
+4,5,7,2,3,1,1,31,1,Vegetarian,Ulcerative Colitis
+5,3,9,1,3,1,3,58,0,Non-Vegetarian,Ulcerative Colitis
+4,5,9,3,2,2,1,38,0,Vegetarian,Ulcerative Colitis
+3,5,6,1,4,1,1,34,1,Non-Vegetarian,Ulcerative Colitis
+2,3,9,3,2,3,3,44,0,Vegetarian,Ulcerative Colitis
+4,4,6,3,2,3,2,51,0,Vegetarian,Ulcerative Colitis
+4,3,7,1,3,2,2,56,0,Vegetarian,Ulcerative Colitis
+3,3,6,3,3,1,2,49,1,Vegetarian,Ulcerative Colitis
+5,6,9,2,3,1,1,38,1,Vegan,Ulcerative Colitis
+5,6,8,1,4,1,3,39,1,Non-Vegetarian,Ulcerative Colitis
+4,4,8,2,3,3,3,31,0,Vegetarian,Ulcerative Colitis
+3,3,7,1,3,2,2,40,0,Vegetarian,Ulcerative Colitis
+2,6,7,3,2,3,1,55,0,Vegetarian,Ulcerative Colitis
+3,4,9,3,4,2,3,34,1,Non-Vegetarian,Ulcerative Colitis
+5,3,8,3,3,2,2,36,0,Vegan,Ulcerative Colitis
+4,4,9,3,3,1,1,32,0,Vegetarian,Ulcerative Colitis
+2,6,9,2,2,3,2,32,1,Vegan,Ulcerative Colitis
+5,5,8,2,4,1,3,52,0,Vegetarian,Ulcerative Colitis
+3,5,6,2,4,2,1,46,0,Vegetarian,Ulcerative Colitis
+2,6,8,3,3,1,3,48,1,Vegan,Ulcerative Colitis
+5,4,9,3,4,1,1,41,0,Non-Vegetarian,Ulcerative Colitis
+4,3,6,1,2,3,1,36,0,Non-Vegetarian,Ulcerative Colitis
+3,5,6,3,3,3,1,41,1,Vegan,Ulcerative Colitis
+5,3,6,3,4,2,1,36,0,Non-Vegetarian,Ulcerative Colitis
+3,5,8,3,2,2,1,31,0,Vegetarian,Ulcerative Colitis
+3,5,9,3,2,2,1,45,1,Non-Vegetarian,Ulcerative Colitis
+2,6,9,3,4,2,1,34,1,Non-Vegetarian,Ulcerative Colitis
+5,4,6,2,4,1,3,48,1,Non-Vegetarian,Ulcerative Colitis
+4,4,8,2,3,1,1,34,0,Vegetarian,Ulcerative Colitis
+2,3,6,3,2,3,2,47,1,Non-Vegetarian,Ulcerative Colitis
+2,3,6,1,4,2,1,43,0,Vegetarian,Ulcerative Colitis
+3,3,9,1,3,1,1,51,1,Vegetarian,Ulcerative Colitis
+3,3,9,2,2,1,2,34,0,Non-Vegetarian,Ulcerative Colitis
+4,6,6,2,2,1,2,45,1,Vegan,Ulcerative Colitis
+2,6,9,3,2,3,1,31,1,Vegan,Ulcerative Colitis
+3,4,7,1,4,1,1,34,0,Non-Vegetarian,Ulcerative Colitis
+5,4,9,3,4,3,3,46,1,Vegan,Ulcerative Colitis
+3,6,9,1,4,1,1,50,1,Vegetarian,Ulcerative Colitis
+4,3,6,2,3,2,3,57,1,Non-Vegetarian,Ulcerative Colitis
+4,5,8,3,3,1,1,34,0,Vegan,Ulcerative Colitis
+3,3,9,1,2,3,2,37,1,Vegan,Ulcerative Colitis
+2,4,7,3,3,1,2,33,0,Vegan,Ulcerative Colitis
+5,4,7,3,4,3,3,30,1,Non-Vegetarian,Ulcerative Colitis
+5,6,6,3,4,1,1,39,0,Non-Vegetarian,Ulcerative Colitis
+4,5,8,2,4,3,3,44,0,Non-Vegetarian,Ulcerative Colitis
+3,5,6,2,3,3,3,47,0,Vegetarian,Ulcerative Colitis
+3,6,9,2,4,2,3,35,0,Non-Vegetarian,Ulcerative Colitis
+2,4,9,1,4,2,1,49,1,Vegetarian,Ulcerative Colitis
+5,5,9,2,3,1,2,59,0,Non-Vegetarian,Ulcerative Colitis
+2,5,9,3,4,1,1,53,1,Vegan,Ulcerative Colitis
+3,4,6,1,4,3,3,40,1,Vegetarian,Ulcerative Colitis
+3,5,7,1,4,3,2,56,1,Vegetarian,Ulcerative Colitis
+3,4,9,2,3,3,1,53,1,Vegetarian,Ulcerative Colitis
+2,4,9,3,4,3,1,51,0,Non-Vegetarian,Ulcerative Colitis
+2,6,6,3,2,1,1,51,0,Vegan,Ulcerative Colitis
+4,3,7,3,3,3,3,45,0,Non-Vegetarian,Ulcerative Colitis
+2,5,8,2,2,1,1,55,1,Vegan,Ulcerative Colitis
+2,3,7,2,4,2,3,54,0,Vegan,Ulcerative Colitis
+2,6,6,1,2,2,1,56,0,Vegan,Ulcerative Colitis
+3,5,6,3,2,3,1,39,1,Vegetarian,Ulcerative Colitis
+5,5,8,3,2,1,1,55,1,Vegetarian,Ulcerative Colitis
+4,6,8,1,4,1,2,52,1,Vegetarian,Ulcerative Colitis
+2,3,6,3,3,1,3,31,1,Non-Vegetarian,Ulcerative Colitis
+3,6,9,1,4,2,1,57,1,Vegan,Ulcerative Colitis
+5,6,8,2,3,1,1,47,1,Vegan,Ulcerative Colitis
+2,5,6,1,4,1,2,52,1,Non-Vegetarian,Ulcerative Colitis
+5,3,7,3,2,2,2,49,0,Vegetarian,Ulcerative Colitis
+5,5,6,3,4,1,3,46,1,Vegan,Ulcerative Colitis
+4,6,7,3,2,3,3,46,1,Vegetarian,Ulcerative Colitis
+2,3,8,2,2,2,2,46,1,Non-Vegetarian,Ulcerative Colitis
+3,3,6,2,3,1,3,38,1,Non-Vegetarian,Ulcerative Colitis
+3,5,7,2,3,2,2,31,0,Vegetarian,Ulcerative Colitis
+5,6,6,1,3,1,3,50,0,Non-Vegetarian,Ulcerative Colitis
+2,4,8,3,3,3,3,50,0,Vegetarian,Ulcerative Colitis
+3,3,7,2,3,2,2,38,0,Non-Vegetarian,Ulcerative Colitis
+4,6,6,1,3,2,2,44,1,Non-Vegetarian,Ulcerative Colitis
+2,5,6,2,4,1,3,45,0,Non-Vegetarian,Ulcerative Colitis
+5,5,7,2,2,3,3,55,0,Vegan,Ulcerative Colitis
+4,3,6,2,3,1,1,32,0,Non-Vegetarian,Ulcerative Colitis
+5,4,7,3,2,2,2,51,1,Vegan,Ulcerative Colitis
+2,3,6,2,4,3,2,39,0,Non-Vegetarian,Ulcerative Colitis
+5,3,6,3,3,3,1,38,1,Non-Vegetarian,Ulcerative Colitis
+4,4,7,1,3,3,2,37,0,Vegetarian,Ulcerative Colitis
+3,3,8,1,4,3,3,32,1,Vegetarian,Ulcerative Colitis
+5,3,7,3,2,2,2,50,0,Vegan,Ulcerative Colitis
+5,5,6,3,3,3,3,41,1,Vegetarian,Ulcerative Colitis
+5,6,9,3,2,3,1,58,0,Vegetarian,Ulcerative Colitis
+2,6,9,2,3,2,1,36,0,Vegan,Ulcerative Colitis
+4,3,6,1,3,1,2,39,1,Vegetarian,Ulcerative Colitis
+2,3,7,1,4,1,1,53,0,Vegan,Ulcerative Colitis
+4,5,9,2,2,3,3,58,1,Vegetarian,Ulcerative Colitis
+5,5,6,1,4,2,3,46,1,Vegetarian,Ulcerative Colitis
+4,6,8,2,4,2,3,43,1,Non-Vegetarian,Ulcerative Colitis
+4,5,8,2,3,2,2,53,1,Vegan,Ulcerative Colitis
+2,5,7,1,3,1,3,31,1,Non-Vegetarian,Ulcerative Colitis
+2,4,6,2,2,3,1,52,0,Non-Vegetarian,Ulcerative Colitis
+3,6,6,1,4,1,2,32,0,Non-Vegetarian,Ulcerative Colitis
+3,5,6,2,4,2,1,36,1,Vegan,Ulcerative Colitis
+4,5,6,1,4,3,1,53,0,Vegetarian,Ulcerative Colitis
+2,5,9,2,2,3,1,55,0,Vegetarian,Ulcerative Colitis
+4,5,8,1,2,1,3,48,1,Vegan,Ulcerative Colitis
+5,3,7,3,4,1,1,37,0,Vegan,Ulcerative Colitis
+5,4,9,1,4,1,2,33,1,Vegetarian,Ulcerative Colitis
+5,5,9,2,3,2,1,49,0,Vegetarian,Ulcerative Colitis
+4,6,6,2,3,2,3,54,1,Non-Vegetarian,Ulcerative Colitis
+3,3,6,1,4,1,1,38,1,Vegetarian,Ulcerative Colitis
+3,4,7,1,3,2,2,30,0,Vegetarian,Ulcerative Colitis
+4,4,8,2,2,3,3,44,0,Vegetarian,Ulcerative Colitis
+4,4,8,3,2,3,2,50,1,Vegan,Ulcerative Colitis
+5,5,9,1,2,2,1,36,0,Non-Vegetarian,Ulcerative Colitis
+4,3,9,2,4,1,3,56,0,Vegan,Ulcerative Colitis
+4,6,6,1,2,3,2,34,1,Vegan,Ulcerative Colitis
+3,5,6,2,2,2,3,39,0,Vegetarian,Ulcerative Colitis
+4,4,6,2,3,1,3,57,1,Non-Vegetarian,Ulcerative Colitis
+3,5,8,1,2,3,1,36,1,Vegetarian,Ulcerative Colitis
+4,3,6,2,4,2,2,59,1,Vegan,Ulcerative Colitis
+2,4,7,3,3,3,2,55,1,Vegetarian,Ulcerative Colitis
+4,6,7,2,4,1,1,38,1,Non-Vegetarian,Ulcerative Colitis
+3,5,8,1,2,3,2,54,1,Non-Vegetarian,Ulcerative Colitis
+3,4,6,1,2,3,1,57,1,Non-Vegetarian,Ulcerative Colitis
+5,5,7,3,4,2,3,35,0,Vegetarian,Ulcerative Colitis
+3,4,7,2,2,3,3,38,1,Vegetarian,Ulcerative Colitis
+4,4,7,2,2,1,3,41,0,Non-Vegetarian,Ulcerative Colitis
+3,5,9,2,2,2,2,41,0,Vegetarian,Ulcerative Colitis
+5,6,6,1,4,1,2,54,1,Vegetarian,Ulcerative Colitis
+2,3,6,2,3,3,3,54,1,Non-Vegetarian,Ulcerative Colitis
+5,5,8,3,2,1,3,44,1,Non-Vegetarian,Ulcerative Colitis
+5,5,7,3,3,2,2,46,1,Vegan,Ulcerative Colitis
+4,5,8,3,4,2,3,53,1,Non-Vegetarian,Ulcerative Colitis
+2,6,7,2,2,3,3,34,1,Non-Vegetarian,Ulcerative Colitis
+4,5,6,3,3,1,3,57,0,Non-Vegetarian,Ulcerative Colitis
+5,3,6,2,2,2,2,40,0,Vegetarian,Ulcerative Colitis
+5,4,6,3,4,1,3,51,1,Vegetarian,Ulcerative Colitis
+4,4,9,2,4,2,3,34,0,Vegetarian,Ulcerative Colitis
+4,5,7,1,2,1,1,40,0,Non-Vegetarian,Ulcerative Colitis
+3,5,7,1,4,2,1,42,1,Vegetarian,Ulcerative Colitis
+2,4,7,1,3,3,2,34,0,Vegetarian,Ulcerative Colitis
+3,6,8,2,2,2,2,36,0,Vegan,Ulcerative Colitis
+2,4,6,1,2,1,3,30,1,Vegan,Ulcerative Colitis
+4,6,6,1,4,1,2,54,1,Vegan,Ulcerative Colitis
+4,6,6,1,3,1,1,54,1,Vegetarian,Ulcerative Colitis
+4,3,8,3,2,2,2,38,0,Vegetarian,Ulcerative Colitis
+5,3,6,1,3,3,3,54,0,Vegetarian,Ulcerative Colitis
+2,4,7,3,2,3,3,49,0,Non-Vegetarian,Ulcerative Colitis
+3,6,7,2,2,1,2,41,1,Vegetarian,Ulcerative Colitis
+2,5,7,3,4,2,2,58,1,Vegan,Ulcerative Colitis
+3,5,9,1,4,1,3,50,0,Non-Vegetarian,Ulcerative Colitis
+5,5,9,3,4,1,3,40,1,Vegetarian,Ulcerative Colitis
+3,5,8,1,2,3,2,32,0,Vegetarian,Ulcerative Colitis
+4,6,8,3,2,2,1,32,0,Vegetarian,Ulcerative Colitis
+3,3,9,3,3,1,1,55,0,Non-Vegetarian,Ulcerative Colitis
+5,6,6,3,2,2,1,37,0,Vegetarian,Ulcerative Colitis
+2,5,6,3,3,2,3,59,1,Vegan,Ulcerative Colitis
+4,6,8,2,2,3,3,38,1,Vegetarian,Ulcerative Colitis
+3,4,6,3,3,2,2,40,0,Non-Vegetarian,Ulcerative Colitis
+4,3,7,3,4,1,2,43,1,Vegan,Ulcerative Colitis
+4,6,8,1,4,2,2,40,0,Vegan,Ulcerative Colitis
+4,6,8,2,3,2,1,40,0,Vegetarian,Ulcerative Colitis
+3,6,8,1,2,3,2,33,0,Vegan,Ulcerative Colitis
+2,5,6,2,4,3,1,46,0,Non-Vegetarian,Ulcerative Colitis
+5,5,6,2,2,3,1,33,1,Non-Vegetarian,Ulcerative Colitis
+3,5,7,3,3,1,3,50,0,Non-Vegetarian,Ulcerative Colitis
+2,5,8,1,4,1,1,30,0,Non-Vegetarian,Ulcerative Colitis
+3,6,6,2,3,3,1,51,1,Non-Vegetarian,Ulcerative Colitis
+2,5,9,1,2,3,3,50,1,Vegetarian,Ulcerative Colitis
+3,6,8,1,2,3,3,57,1,Non-Vegetarian,Ulcerative Colitis
+3,5,7,1,3,2,1,54,0,Non-Vegetarian,Ulcerative Colitis
+2,3,7,1,4,3,2,36,0,Non-Vegetarian,Ulcerative Colitis
+3,5,9,3,2,2,1,42,1,Vegan,Ulcerative Colitis
+2,5,6,3,4,2,2,46,0,Vegetarian,Ulcerative Colitis
+5,3,6,2,2,1,3,58,1,Vegan,Ulcerative Colitis
+3,3,6,3,3,2,1,36,1,Non-Vegetarian,Ulcerative Colitis
+2,6,8,2,2,1,1,34,1,Vegan,Ulcerative Colitis
+2,6,8,2,3,1,1,37,1,Non-Vegetarian,Ulcerative Colitis
+4,6,8,2,4,2,2,49,1,Non-Vegetarian,Ulcerative Colitis
+2,5,9,3,3,1,2,48,1,Non-Vegetarian,Ulcerative Colitis
+2,5,7,1,3,1,1,31,0,Vegan,Ulcerative Colitis
+4,3,8,2,4,1,1,36,0,Non-Vegetarian,Ulcerative Colitis
+2,3,6,1,2,2,3,43,0,Non-Vegetarian,Ulcerative Colitis
+2,4,6,1,3,2,3,52,1,Vegetarian,Ulcerative Colitis
+5,6,9,1,4,1,1,54,0,Vegetarian,Ulcerative Colitis
+3,6,7,2,4,1,3,30,0,Vegetarian,Ulcerative Colitis
+4,6,9,1,3,2,2,48,1,Vegetarian,Ulcerative Colitis
+2,4,9,2,4,1,3,45,1,Non-Vegetarian,Ulcerative Colitis
+4,3,7,1,2,1,3,46,0,Vegetarian,Ulcerative Colitis
+5,4,6,3,2,1,2,38,1,Non-Vegetarian,Ulcerative Colitis
+3,3,7,1,4,2,1,37,0,Non-Vegetarian,Ulcerative Colitis
+2,5,9,3,3,2,1,30,1,Non-Vegetarian,Ulcerative Colitis
+4,6,8,3,3,1,3,43,0,Vegan,Ulcerative Colitis
+2,6,7,2,4,1,1,34,1,Vegetarian,Ulcerative Colitis
+5,6,6,1,4,3,1,54,1,Vegetarian,Ulcerative Colitis
+2,3,7,2,2,3,3,33,0,Vegetarian,Ulcerative Colitis
+3,5,6,2,4,3,3,59,0,Vegan,Ulcerative Colitis
+4,4,7,1,2,1,2,52,0,Vegan,Ulcerative Colitis
+5,3,8,2,2,1,2,53,0,Non-Vegetarian,Ulcerative Colitis
+4,3,9,3,2,1,1,42,1,Vegan,Ulcerative Colitis
+3,5,8,3,2,1,1,59,0,Vegan,Ulcerative Colitis
+5,3,7,2,2,3,1,42,0,Vegetarian,Ulcerative Colitis
+5,5,7,2,3,3,1,58,0,Vegan,Ulcerative Colitis
+5,5,8,3,4,3,3,58,0,Vegan,Ulcerative Colitis
+4,3,9,2,2,1,2,57,1,Vegan,Ulcerative Colitis
+5,5,8,1,2,3,3,42,1,Vegetarian,Ulcerative Colitis
+5,3,6,1,2,2,3,52,0,Vegan,Ulcerative Colitis
+5,5,8,2,3,3,3,38,0,Vegetarian,Ulcerative Colitis
+5,4,7,2,4,1,3,56,1,Vegan,Ulcerative Colitis
+2,3,8,2,4,1,2,45,1,Vegan,Ulcerative Colitis
+5,5,8,1,4,3,3,57,1,Vegan,Ulcerative Colitis
+5,3,7,2,4,2,1,50,1,Non-Vegetarian,Ulcerative Colitis
+5,4,9,1,3,3,3,47,1,Vegan,Ulcerative Colitis
+5,3,7,2,2,1,1,33,0,Vegetarian,Ulcerative Colitis
+2,4,6,2,3,1,1,47,1,Vegan,Ulcerative Colitis
+4,6,9,1,4,3,1,54,1,Vegetarian,Ulcerative Colitis
+3,5,8,1,2,3,3,59,0,Non-Vegetarian,Ulcerative Colitis
+2,6,6,2,4,3,2,48,1,Non-Vegetarian,Ulcerative Colitis
+2,3,7,2,3,1,3,37,0,Vegetarian,Ulcerative Colitis
+3,4,6,1,2,1,3,48,0,Non-Vegetarian,Ulcerative Colitis
+3,5,8,1,4,2,2,52,1,Vegan,Ulcerative Colitis
+2,6,8,1,2,2,1,44,0,Vegan,Ulcerative Colitis
+5,6,7,2,4,3,2,54,0,Vegetarian,Ulcerative Colitis
+3,3,6,3,2,3,2,30,1,Vegan,Ulcerative Colitis
+4,6,7,1,3,3,3,39,1,Non-Vegetarian,Ulcerative Colitis
+5,5,8,1,2,1,2,33,0,Vegetarian,Ulcerative Colitis
+4,3,8,1,3,2,1,59,1,Vegetarian,Ulcerative Colitis
+3,3,8,3,3,3,1,48,1,Vegan,Ulcerative Colitis
+2,6,6,2,3,1,3,44,1,Vegetarian,Ulcerative Colitis
+2,4,7,3,2,1,3,40,0,Vegan,Ulcerative Colitis
+3,3,9,1,3,2,2,47,1,Vegan,Ulcerative Colitis
+3,6,9,3,4,1,3,46,1,Vegetarian,Ulcerative Colitis
+3,6,9,2,2,2,2,55,0,Vegetarian,Ulcerative Colitis
+5,5,8,1,3,3,3,40,1,Vegetarian,Ulcerative Colitis
+3,6,6,1,4,3,3,49,1,Vegetarian,Ulcerative Colitis
+4,3,7,1,4,1,3,39,0,Non-Vegetarian,Ulcerative Colitis
+4,3,8,1,4,1,1,52,0,Vegetarian,Ulcerative Colitis
+4,6,7,3,4,3,1,36,0,Vegan,Ulcerative Colitis
+2,4,8,1,4,1,2,30,0,Non-Vegetarian,Ulcerative Colitis
+3,6,8,3,2,3,1,47,1,Non-Vegetarian,Ulcerative Colitis
+2,6,7,1,4,1,3,35,0,Vegan,Ulcerative Colitis
+2,3,6,2,4,3,2,51,1,Vegan,Ulcerative Colitis
+2,6,9,1,3,2,2,52,1,Vegetarian,Ulcerative Colitis
+4,5,7,3,4,2,3,35,1,Vegetarian,Ulcerative Colitis
+5,5,7,3,3,2,3,33,0,Vegan,Ulcerative Colitis
+5,6,6,1,4,1,2,59,1,Non-Vegetarian,Ulcerative Colitis
+2,5,7,3,2,2,3,56,0,Non-Vegetarian,Ulcerative Colitis
+2,3,6,1,2,2,1,44,1,Vegetarian,Ulcerative Colitis
+4,5,8,2,2,3,1,32,0,Vegetarian,Ulcerative Colitis
+4,3,7,2,2,3,2,47,0,Vegan,Ulcerative Colitis
+5,5,9,3,2,2,1,59,0,Vegetarian,Ulcerative Colitis
+2,4,9,1,4,1,2,53,1,Vegan,Ulcerative Colitis
+3,6,6,1,4,2,3,37,0,Vegetarian,Ulcerative Colitis
+3,6,6,2,3,3,3,49,1,Vegetarian,Ulcerative Colitis
+4,4,7,1,2,1,3,35,0,Vegetarian,Ulcerative Colitis
+4,4,6,1,2,3,1,43,1,Vegan,Ulcerative Colitis
+3,4,8,3,2,1,2,47,1,Vegan,Ulcerative Colitis
+2,4,6,3,4,3,1,37,1,Vegetarian,Ulcerative Colitis
+4,3,6,3,4,1,1,48,0,Vegan,Ulcerative Colitis
+2,4,9,3,4,2,3,56,1,Vegan,Ulcerative Colitis
+3,5,8,1,2,2,3,31,0,Non-Vegetarian,Ulcerative Colitis
+3,3,8,3,2,2,2,31,1,Vegetarian,Ulcerative Colitis
+3,3,6,3,4,1,1,47,0,Vegetarian,Ulcerative Colitis
+5,5,6,3,4,2,2,45,1,Non-Vegetarian,Ulcerative Colitis
+5,6,7,1,3,2,3,53,1,Vegan,Ulcerative Colitis
+2,6,7,3,2,3,2,55,1,Vegetarian,Ulcerative Colitis
+4,6,9,3,3,3,1,55,0,Vegetarian,Ulcerative Colitis
+3,4,7,2,4,2,1,43,0,Vegan,Ulcerative Colitis
+4,3,9,3,3,1,2,52,1,Vegan,Ulcerative Colitis
+2,6,6,3,3,1,3,55,1,Vegan,Ulcerative Colitis
+3,3,9,2,3,1,2,34,1,Vegan,Ulcerative Colitis
+4,6,6,1,2,2,3,39,1,Vegetarian,Ulcerative Colitis
+2,5,7,2,3,1,1,55,0,Vegetarian,Ulcerative Colitis
+4,5,8,1,4,3,2,58,0,Non-Vegetarian,Ulcerative Colitis
+5,6,8,3,3,2,2,40,1,Vegetarian,Ulcerative Colitis
+4,4,6,3,2,1,1,44,0,Vegan,Ulcerative Colitis
+4,5,7,3,2,3,1,33,1,Vegan,Ulcerative Colitis
+4,5,8,1,3,1,1,48,0,Vegan,Ulcerative Colitis
+4,5,9,1,4,3,1,50,0,Non-Vegetarian,Ulcerative Colitis
+5,5,6,1,2,2,2,57,0,Vegetarian,Ulcerative Colitis
+3,4,7,1,3,1,1,53,1,Vegetarian,Ulcerative Colitis
+4,5,6,2,2,1,2,34,1,Vegetarian,Ulcerative Colitis
+2,5,6,2,4,2,3,53,1,Non-Vegetarian,Ulcerative Colitis
+5,3,9,2,4,2,3,41,1,Non-Vegetarian,Ulcerative Colitis
+2,4,7,3,2,3,3,30,0,Vegetarian,Ulcerative Colitis
+4,5,8,2,4,2,3,53,0,Non-Vegetarian,Ulcerative Colitis
+2,6,7,1,4,2,1,59,1,Vegan,Ulcerative Colitis
+2,4,7,2,2,2,2,44,1,Vegan,Ulcerative Colitis
+2,5,8,3,4,2,2,55,1,Vegetarian,Ulcerative Colitis
+3,6,9,1,4,1,1,53,0,Vegetarian,Ulcerative Colitis
+5,6,8,3,4,2,3,41,0,Vegetarian,Ulcerative Colitis
+4,6,7,2,3,3,3,58,1,Vegetarian,Ulcerative Colitis
+5,4,8,3,2,1,1,30,0,Vegan,Ulcerative Colitis
+4,6,8,3,3,2,3,40,0,Non-Vegetarian,Ulcerative Colitis
+3,3,9,3,2,2,2,33,0,Vegan,Ulcerative Colitis
+2,6,9,2,4,1,2,31,0,Vegan,Ulcerative Colitis
+3,3,7,2,4,1,1,41,1,Non-Vegetarian,Ulcerative Colitis
+5,5,8,3,4,2,3,47,1,Non-Vegetarian,Ulcerative Colitis
+4,4,9,3,4,3,1,56,0,Vegan,Ulcerative Colitis
+5,5,6,2,2,2,1,59,0,Vegetarian,Ulcerative Colitis
+5,6,6,3,4,2,2,35,0,Vegan,Ulcerative Colitis
+3,4,6,3,4,1,2,50,1,Non-Vegetarian,Ulcerative Colitis
+5,3,8,3,3,1,1,45,1,Vegan,Ulcerative Colitis
+4,4,9,1,3,3,1,39,1,Vegan,Ulcerative Colitis
+3,5,8,1,2,1,2,56,0,Non-Vegetarian,Ulcerative Colitis
+2,6,9,2,2,1,2,57,0,Non-Vegetarian,Ulcerative Colitis
+3,5,7,3,2,1,3,59,1,Vegetarian,Ulcerative Colitis
+3,4,7,2,4,3,3,36,0,Vegetarian,Ulcerative Colitis
+2,6,8,3,2,2,3,57,1,Non-Vegetarian,Ulcerative Colitis
+2,3,9,3,3,3,1,35,1,Non-Vegetarian,Ulcerative Colitis
+4,3,9,3,3,3,1,53,1,Vegetarian,Ulcerative Colitis
+3,4,8,1,2,2,2,36,1,Non-Vegetarian,Ulcerative Colitis
+2,3,7,3,3,3,1,33,1,Vegetarian,Ulcerative Colitis
+4,5,9,2,4,3,1,32,0,Vegetarian,Ulcerative Colitis
+5,6,7,3,3,3,2,33,0,Vegetarian,Ulcerative Colitis
+2,6,9,1,2,3,2,40,0,Vegan,Ulcerative Colitis
+5,6,9,2,2,3,3,56,1,Vegan,Ulcerative Colitis
+4,3,6,1,2,2,1,41,1,Vegetarian,Ulcerative Colitis
+5,6,7,1,3,3,3,53,1,Non-Vegetarian,Ulcerative Colitis
+2,3,9,3,2,2,3,53,1,Vegetarian,Ulcerative Colitis
+4,3,8,1,3,3,2,56,1,Vegan,Ulcerative Colitis
+4,5,8,3,3,3,1,41,0,Vegetarian,Ulcerative Colitis
+2,6,9,3,2,2,2,51,1,Vegetarian,Ulcerative Colitis
+4,3,7,1,2,1,3,33,1,Non-Vegetarian,Ulcerative Colitis
+4,6,6,1,3,2,1,37,1,Non-Vegetarian,Ulcerative Colitis
+3,5,6,2,2,1,3,30,0,Vegetarian,Ulcerative Colitis
+4,5,7,2,3,1,3,56,1,Vegan,Ulcerative Colitis
+5,4,9,1,2,1,3,47,0,Non-Vegetarian,Ulcerative Colitis
+4,3,9,1,2,1,2,32,0,Non-Vegetarian,Ulcerative Colitis
+4,6,7,3,2,1,2,36,1,Vegan,Ulcerative Colitis
+2,5,9,1,4,1,1,36,0,Vegetarian,Ulcerative Colitis
+4,3,6,1,3,3,1,43,1,Vegetarian,Ulcerative Colitis
+5,3,9,1,3,2,3,37,0,Vegetarian,Ulcerative Colitis
+5,5,7,3,2,3,1,42,0,Vegan,Ulcerative Colitis
+4,4,7,3,3,3,3,52,1,Vegan,Ulcerative Colitis
+4,3,6,1,4,3,3,50,1,Non-Vegetarian,Ulcerative Colitis
+4,5,6,1,3,2,3,31,0,Non-Vegetarian,Ulcerative Colitis
+3,5,6,2,2,1,2,47,1,Non-Vegetarian,Ulcerative Colitis
+5,5,6,1,4,3,3,31,1,Vegetarian,Ulcerative Colitis
+4,5,8,3,3,3,1,56,0,Non-Vegetarian,Ulcerative Colitis
+2,3,6,2,2,3,3,55,0,Non-Vegetarian,Ulcerative Colitis
+3,4,9,1,3,3,3,38,0,Vegan,Ulcerative Colitis
+2,5,8,1,2,1,2,55,1,Vegetarian,Ulcerative Colitis
+3,6,7,3,2,3,2,50,0,Non-Vegetarian,Ulcerative Colitis
+5,3,8,3,3,2,1,54,1,Vegan,Ulcerative Colitis
+4,4,8,2,3,1,1,35,0,Vegan,Ulcerative Colitis
+4,6,8,3,3,3,3,40,1,Non-Vegetarian,Ulcerative Colitis
+2,6,6,1,2,1,1,31,0,Non-Vegetarian,Ulcerative Colitis
+2,6,7,1,4,3,2,41,0,Vegan,Ulcerative Colitis
+2,3,9,3,3,2,1,31,0,Vegetarian,Ulcerative Colitis
+4,3,9,3,3,2,3,35,0,Vegetarian,Ulcerative Colitis
+3,4,8,2,3,3,3,31,0,Vegan,Ulcerative Colitis
+4,4,8,1,4,1,3,49,1,Non-Vegetarian,Ulcerative Colitis
+5,5,6,2,3,3,2,51,0,Vegetarian,Ulcerative Colitis
+2,6,7,1,3,3,2,51,1,Non-Vegetarian,Ulcerative Colitis
+5,6,9,3,2,1,2,51,0,Vegan,Ulcerative Colitis
+3,6,6,1,4,3,2,59,0,Vegetarian,Ulcerative Colitis
+5,6,7,2,2,3,2,48,1,Vegetarian,Ulcerative Colitis
+2,6,6,1,2,1,2,41,0,Non-Vegetarian,Ulcerative Colitis
+5,5,6,1,3,3,1,56,1,Vegan,Ulcerative Colitis
+5,6,9,1,4,2,2,54,0,Vegetarian,Ulcerative Colitis
+4,6,8,3,3,2,3,31,1,Vegan,Ulcerative Colitis
+2,6,9,3,2,3,1,44,1,Non-Vegetarian,Ulcerative Colitis
+5,4,6,2,4,2,2,32,0,Vegetarian,Ulcerative Colitis
+2,4,9,3,4,2,1,59,1,Non-Vegetarian,Ulcerative Colitis
+3,5,7,1,2,1,1,50,0,Vegan,Ulcerative Colitis
+2,5,8,3,3,2,3,35,0,Non-Vegetarian,Ulcerative Colitis
+2,4,9,2,4,2,2,49,0,Vegan,Ulcerative Colitis
+2,5,8,3,2,2,3,50,0,Vegetarian,Ulcerative Colitis
+5,3,9,2,3,2,3,47,0,Vegetarian,Ulcerative Colitis
+4,6,9,2,4,2,2,43,1,Vegan,Ulcerative Colitis
+3,3,6,2,2,3,3,56,0,Vegetarian,Ulcerative Colitis
+2,6,9,1,4,3,3,36,0,Non-Vegetarian,Ulcerative Colitis
+5,6,9,3,3,2,2,45,1,Vegetarian,Ulcerative Colitis
+3,6,6,1,4,3,2,59,1,Vegetarian,Ulcerative Colitis
+5,5,6,1,3,1,1,38,1,Non-Vegetarian,Ulcerative Colitis
+3,3,6,2,3,1,3,39,1,Vegetarian,Ulcerative Colitis
+2,4,6,1,3,1,3,46,1,Vegetarian,Ulcerative Colitis
+3,6,8,1,4,3,2,38,0,Vegan,Ulcerative Colitis
+3,6,7,2,3,3,2,50,0,Vegetarian,Ulcerative Colitis
+2,3,8,2,4,3,1,41,1,Vegan,Ulcerative Colitis
+4,4,8,3,4,3,2,44,0,Vegan,Ulcerative Colitis
+2,3,7,1,2,1,2,44,1,Vegetarian,Ulcerative Colitis
+3,4,9,1,4,2,2,56,1,Vegetarian,Ulcerative Colitis
+4,6,6,3,2,2,1,52,1,Vegetarian,Ulcerative Colitis
+3,3,7,3,3,3,3,43,1,Vegetarian,Ulcerative Colitis
+2,4,7,2,3,3,2,35,0,Vegan,Ulcerative Colitis
+4,3,6,1,2,1,3,41,1,Vegan,Ulcerative Colitis
+2,3,9,1,3,3,1,55,1,Vegan,Ulcerative Colitis
+4,4,9,3,2,3,2,35,1,Vegetarian,Ulcerative Colitis
+3,6,9,1,2,2,3,33,0,Non-Vegetarian,Ulcerative Colitis
+3,5,9,1,4,3,2,34,1,Vegan,Ulcerative Colitis
+5,3,9,2,2,3,2,36,1,Non-Vegetarian,Ulcerative Colitis
+3,4,7,1,3,2,3,51,0,Vegetarian,Ulcerative Colitis
+2,5,7,1,2,1,1,46,1,Non-Vegetarian,Ulcerative Colitis
+3,4,8,3,2,1,3,30,0,Vegan,Ulcerative Colitis
+2,3,9,2,2,3,1,40,1,Non-Vegetarian,Ulcerative Colitis
+3,5,8,3,3,3,2,50,1,Vegan,Ulcerative Colitis
+4,6,6,3,4,1,1,42,1,Vegan,Ulcerative Colitis
+3,6,6,2,4,1,1,54,1,Vegetarian,Ulcerative Colitis
+5,3,6,1,4,1,3,30,0,Vegetarian,Ulcerative Colitis
+2,5,6,1,2,2,3,35,0,Non-Vegetarian,Ulcerative Colitis
+3,5,8,2,4,3,3,57,0,Vegetarian,Ulcerative Colitis
+3,5,6,2,3,2,3,45,0,Vegetarian,Ulcerative Colitis
+3,4,7,3,2,1,2,42,0,Vegetarian,Ulcerative Colitis
+3,3,9,2,2,2,1,51,0,Vegetarian,Ulcerative Colitis
+2,5,7,2,2,2,2,31,1,Vegetarian,Ulcerative Colitis
+4,4,7,2,4,3,1,50,1,Vegan,Ulcerative Colitis
+3,4,8,3,4,3,1,53,1,Vegetarian,Ulcerative Colitis
+5,6,8,2,3,2,1,41,0,Vegan,Ulcerative Colitis
+3,3,8,1,2,3,2,48,0,Non-Vegetarian,Ulcerative Colitis
+5,6,8,3,4,1,1,42,0,Vegetarian,Ulcerative Colitis
+3,5,6,3,3,1,1,54,0,Non-Vegetarian,Ulcerative Colitis
+5,5,6,2,2,2,2,53,1,Vegan,Ulcerative Colitis
+5,6,6,3,4,2,2,53,1,Vegan,Ulcerative Colitis
+4,4,8,2,3,1,1,30,0,Vegetarian,Ulcerative Colitis
+5,5,7,1,4,3,3,45,0,Vegetarian,Ulcerative Colitis
+3,6,8,3,4,3,2,58,0,Vegetarian,Ulcerative Colitis
+2,6,6,2,2,3,2,45,1,Non-Vegetarian,Ulcerative Colitis
+5,3,6,1,4,2,2,43,1,Non-Vegetarian,Ulcerative Colitis
+4,4,9,1,4,2,2,55,1,Vegan,Ulcerative Colitis
+2,6,7,3,4,2,1,34,0,Vegetarian,Ulcerative Colitis
+2,4,9,2,3,1,1,41,0,Non-Vegetarian,Ulcerative Colitis
+2,3,6,1,3,1,2,47,1,Vegetarian,Ulcerative Colitis
+2,6,8,1,3,1,3,40,0,Vegan,Ulcerative Colitis
+5,5,7,1,3,3,1,34,1,Vegetarian,Ulcerative Colitis
+4,5,9,1,4,1,1,38,0,Vegetarian,Ulcerative Colitis
+3,3,7,3,2,1,1,42,1,Non-Vegetarian,Ulcerative Colitis
+5,6,8,2,2,2,2,56,1,Vegetarian,Ulcerative Colitis
+5,5,7,1,3,3,3,36,0,Non-Vegetarian,Ulcerative Colitis
+3,5,6,1,3,2,3,59,1,Vegetarian,Ulcerative Colitis
+3,3,7,1,2,1,3,48,0,Vegetarian,Ulcerative Colitis
+5,5,8,2,3,1,2,39,1,Vegetarian,Ulcerative Colitis
+5,6,7,3,4,3,3,35,0,Vegan,Ulcerative Colitis
+2,4,8,3,4,3,2,53,0,Vegan,Ulcerative Colitis
+4,6,9,3,2,2,1,51,1,Non-Vegetarian,Ulcerative Colitis
+2,4,7,3,2,2,1,50,1,Non-Vegetarian,Ulcerative Colitis
+5,6,8,3,4,1,3,59,0,Vegan,Ulcerative Colitis
+4,5,6,2,4,1,3,56,1,Vegetarian,Ulcerative Colitis
+5,3,9,3,4,1,1,55,0,Vegetarian,Ulcerative Colitis
+2,5,8,3,3,1,1,33,0,Vegetarian,Ulcerative Colitis
+4,6,7,1,3,1,2,54,1,Non-Vegetarian,Ulcerative Colitis
+2,4,9,2,4,2,1,42,1,Vegetarian,Ulcerative Colitis
+2,6,8,2,2,1,1,35,1,Non-Vegetarian,Ulcerative Colitis
+5,3,9,1,4,1,3,56,1,Non-Vegetarian,Ulcerative Colitis
+5,6,7,2,3,1,3,40,0,Vegetarian,Ulcerative Colitis
+5,5,6,1,3,1,3,53,1,Non-Vegetarian,Ulcerative Colitis
+2,5,9,2,4,2,2,34,0,Vegan,Ulcerative Colitis
+2,6,7,3,4,2,2,35,1,Vegetarian,Ulcerative Colitis
+5,3,8,3,2,1,1,34,1,Vegan,Ulcerative Colitis
+3,4,7,2,4,1,3,54,0,Vegetarian,Ulcerative Colitis
+5,5,8,1,2,1,2,45,0,Vegetarian,Ulcerative Colitis
+5,5,8,1,3,1,2,38,1,Vegan,Ulcerative Colitis
+5,4,6,2,4,3,3,54,0,Vegan,Ulcerative Colitis
+5,6,8,2,4,2,2,50,1,Vegetarian,Ulcerative Colitis
+5,5,9,2,4,1,3,55,1,Vegetarian,Ulcerative Colitis
+4,4,6,3,2,3,3,38,1,Vegetarian,Ulcerative Colitis
+3,5,9,3,4,1,2,47,1,Non-Vegetarian,Ulcerative Colitis
+2,5,8,1,4,2,3,54,1,Vegetarian,Ulcerative Colitis
+5,6,8,3,3,3,3,32,1,Vegetarian,Ulcerative Colitis
+3,3,7,2,3,1,1,33,0,Vegetarian,Ulcerative Colitis
+2,4,6,1,2,2,3,58,1,Vegetarian,Ulcerative Colitis
+3,6,7,2,3,1,3,34,0,Vegetarian,Ulcerative Colitis
+5,3,6,2,2,1,3,50,1,Vegetarian,Ulcerative Colitis
+3,3,7,3,4,1,1,40,1,Vegan,Ulcerative Colitis
+3,3,9,2,3,2,2,31,1,Vegan,Ulcerative Colitis
+3,6,6,3,2,2,2,50,0,Non-Vegetarian,Ulcerative Colitis
+5,6,7,2,4,1,2,54,1,Vegetarian,Ulcerative Colitis
+2,5,7,2,3,1,1,33,0,Non-Vegetarian,Ulcerative Colitis
+2,4,8,1,2,1,1,52,0,Non-Vegetarian,Ulcerative Colitis
+5,4,6,3,3,3,1,45,0,Vegan,Ulcerative Colitis
+3,3,7,3,4,2,1,42,1,Vegan,Ulcerative Colitis
+4,3,7,3,2,3,3,34,0,Non-Vegetarian,Ulcerative Colitis
+3,3,6,3,3,2,3,36,0,Vegetarian,Ulcerative Colitis
+4,4,7,2,2,1,2,35,0,Vegan,Ulcerative Colitis
+2,4,8,1,4,3,1,45,0,Vegetarian,Ulcerative Colitis
+2,3,8,2,2,2,1,51,0,Vegetarian,Ulcerative Colitis
+5,5,8,3,3,1,2,57,0,Non-Vegetarian,Ulcerative Colitis
+3,3,6,1,3,3,2,59,0,Vegan,Ulcerative Colitis
+4,6,6,3,4,1,2,38,0,Vegetarian,Ulcerative Colitis
+4,6,9,3,4,2,2,57,0,Vegan,Ulcerative Colitis
+3,4,7,3,4,1,3,56,1,Vegetarian,Ulcerative Colitis
+3,3,6,1,3,2,2,34,1,Non-Vegetarian,Ulcerative Colitis
+5,6,6,3,2,2,2,56,0,Vegetarian,Ulcerative Colitis
+3,6,9,1,4,3,2,30,0,Vegan,Ulcerative Colitis
+4,6,9,2,3,2,2,44,1,Vegan,Ulcerative Colitis
+3,4,6,2,4,1,3,50,0,Vegetarian,Ulcerative Colitis
+5,6,8,2,3,1,2,31,0,Non-Vegetarian,Ulcerative Colitis
+2,4,6,3,3,2,2,50,0,Vegan,Ulcerative Colitis
+2,6,6,3,2,2,2,36,1,Non-Vegetarian,Ulcerative Colitis
+3,6,8,2,4,2,1,42,0,Non-Vegetarian,Ulcerative Colitis
+4,5,6,2,2,1,2,59,1,Non-Vegetarian,Ulcerative Colitis
+4,6,6,2,4,3,1,42,0,Vegetarian,Ulcerative Colitis
+4,4,9,2,2,3,1,37,0,Vegetarian,Ulcerative Colitis
+4,6,4,1,3,4,3,34,0,Non-Vegetarian,Celiac Disease
+2,6,4,2,3,4,1,37,0,Vegetarian,Celiac Disease
+5,6,2,3,3,3,1,36,0,Vegetarian,Celiac Disease
+2,5,3,2,3,3,2,44,0,Non-Vegetarian,Celiac Disease
+5,6,4,2,2,3,1,39,0,Non-Vegetarian,Celiac Disease
+4,5,3,1,2,4,1,41,0,Vegan,Celiac Disease
+5,9,4,3,2,3,3,42,0,Vegetarian,Celiac Disease
+3,9,3,3,2,3,3,49,0,Vegetarian,Celiac Disease
+4,9,2,1,2,4,1,32,0,Vegetarian,Celiac Disease
+3,7,2,2,1,3,2,32,0,Vegetarian,Celiac Disease
+3,9,3,3,3,4,3,40,0,Vegetarian,Celiac Disease
+4,5,4,1,3,3,1,43,0,Vegan,Celiac Disease
+3,8,2,2,2,4,1,43,0,Vegan,Celiac Disease
+2,5,3,2,1,4,1,35,0,Vegan,Celiac Disease
+5,8,2,3,2,3,1,39,0,Non-Vegetarian,Celiac Disease
+2,9,3,1,2,4,3,32,0,Non-Vegetarian,Celiac Disease
+5,9,3,3,2,4,3,40,0,Vegan,Celiac Disease
+4,7,3,3,2,4,3,54,0,Non-Vegetarian,Celiac Disease
+4,6,3,2,3,3,1,38,0,Non-Vegetarian,Celiac Disease
+2,6,3,3,2,4,3,33,0,Non-Vegetarian,Celiac Disease
+4,6,3,1,1,4,1,54,0,Non-Vegetarian,Celiac Disease
+4,5,4,1,3,4,3,40,0,Non-Vegetarian,Celiac Disease
+5,9,4,3,2,3,3,31,0,Vegan,Celiac Disease
+4,7,4,3,2,4,2,36,0,Vegan,Celiac Disease
+5,7,2,1,1,4,1,54,0,Vegetarian,Celiac Disease
+5,5,2,3,1,3,1,38,0,Non-Vegetarian,Celiac Disease
+5,6,2,1,2,4,2,57,0,Non-Vegetarian,Celiac Disease
+2,9,4,3,1,4,1,59,0,Non-Vegetarian,Celiac Disease
+3,5,2,2,3,3,3,39,0,Vegetarian,Celiac Disease
+3,7,2,2,2,4,3,39,0,Non-Vegetarian,Celiac Disease
+4,8,2,3,2,4,2,33,0,Vegetarian,Celiac Disease
+2,6,2,2,2,4,3,48,0,Non-Vegetarian,Celiac Disease
+4,6,3,1,1,4,2,53,0,Vegan,Celiac Disease
+5,5,2,2,2,3,2,42,0,Non-Vegetarian,Celiac Disease
+4,5,3,3,3,4,2,49,0,Non-Vegetarian,Celiac Disease
+4,8,2,1,1,3,3,48,0,Vegan,Celiac Disease
+5,5,3,2,1,4,3,43,0,Non-Vegetarian,Celiac Disease
+3,9,3,2,3,3,3,35,0,Vegetarian,Celiac Disease
+2,5,2,2,2,4,3,38,0,Vegetarian,Celiac Disease
+2,9,2,3,2,4,1,48,0,Vegetarian,Celiac Disease
+3,6,2,3,1,4,2,40,0,Non-Vegetarian,Celiac Disease
+3,5,3,2,3,4,1,45,0,Vegan,Celiac Disease
+5,9,3,3,3,3,3,45,0,Non-Vegetarian,Celiac Disease
+3,6,4,2,1,4,1,38,0,Vegan,Celiac Disease
+2,9,2,1,3,4,3,41,0,Vegetarian,Celiac Disease
+2,7,3,1,2,4,2,49,0,Vegetarian,Celiac Disease
+4,5,3,3,2,3,2,31,0,Vegan,Celiac Disease
+5,5,4,3,2,4,1,50,0,Vegan,Celiac Disease
+2,9,2,2,3,3,2,44,0,Vegetarian,Celiac Disease
+5,8,2,1,3,4,2,52,0,Non-Vegetarian,Celiac Disease
+4,6,3,1,1,4,3,45,0,Non-Vegetarian,Celiac Disease
+2,8,2,1,3,4,1,33,0,Vegan,Celiac Disease
+5,6,3,1,3,4,2,48,0,Vegetarian,Celiac Disease
+5,6,4,2,2,3,3,34,0,Non-Vegetarian,Celiac Disease
+4,9,3,1,3,4,2,31,0,Vegan,Celiac Disease
+5,8,2,1,2,3,2,58,0,Vegetarian,Celiac Disease
+3,7,3,3,3,4,3,36,0,Non-Vegetarian,Celiac Disease
+4,8,3,3,2,3,2,52,0,Vegan,Celiac Disease
+5,8,4,2,3,3,3,51,0,Vegetarian,Celiac Disease
+5,5,4,2,1,4,3,58,0,Non-Vegetarian,Celiac Disease
+2,5,3,1,2,3,1,58,0,Vegan,Celiac Disease
+4,8,3,1,2,3,3,48,0,Non-Vegetarian,Celiac Disease
+2,5,4,1,3,4,1,37,0,Vegetarian,Celiac Disease
+3,7,4,3,2,4,2,50,0,Vegan,Celiac Disease
+3,6,3,3,3,4,3,31,0,Vegan,Celiac Disease
+5,5,2,3,3,3,2,54,0,Vegetarian,Celiac Disease
+4,6,2,1,2,4,3,40,0,Vegetarian,Celiac Disease
+5,9,3,1,1,4,1,32,0,Vegan,Celiac Disease
+4,7,4,2,1,3,3,57,0,Vegetarian,Celiac Disease
+2,9,4,1,3,3,2,55,0,Vegetarian,Celiac Disease
+5,6,4,1,1,3,2,57,0,Vegan,Celiac Disease
+3,7,4,1,1,4,2,49,0,Non-Vegetarian,Celiac Disease
+3,7,4,3,3,3,1,55,0,Vegetarian,Celiac Disease
+3,8,3,3,3,3,2,56,0,Vegetarian,Celiac Disease
+4,5,3,2,1,4,3,53,0,Vegetarian,Celiac Disease
+3,5,3,3,2,3,3,49,0,Vegetarian,Celiac Disease
+5,5,4,2,1,3,2,46,0,Vegetarian,Celiac Disease
+5,5,3,3,2,4,1,52,0,Vegetarian,Celiac Disease
+3,8,3,3,3,3,3,32,0,Vegetarian,Celiac Disease
+3,5,2,3,2,3,3,56,0,Vegetarian,Celiac Disease
+3,5,3,2,3,4,1,37,0,Vegan,Celiac Disease
+3,5,4,2,3,3,3,42,0,Vegan,Celiac Disease
+3,5,4,2,1,3,1,33,0,Vegetarian,Celiac Disease
+2,8,3,3,3,4,1,51,0,Non-Vegetarian,Celiac Disease
+2,8,2,1,2,4,2,56,0,Non-Vegetarian,Celiac Disease
+5,8,2,2,3,3,1,35,0,Vegetarian,Celiac Disease
+5,8,2,2,3,3,1,54,0,Vegetarian,Celiac Disease
+2,6,4,2,3,4,3,46,0,Vegetarian,Celiac Disease
+2,6,3,1,2,4,3,38,0,Vegetarian,Celiac Disease
+3,7,2,3,2,3,2,40,0,Vegetarian,Celiac Disease
+5,6,4,3,2,4,1,36,0,Non-Vegetarian,Celiac Disease
+4,8,4,3,3,4,3,54,0,Vegan,Celiac Disease
+3,9,2,2,1,3,1,50,0,Non-Vegetarian,Celiac Disease
+4,7,3,3,3,3,3,39,0,Vegetarian,Celiac Disease
+5,5,4,3,3,4,1,50,0,Vegetarian,Celiac Disease
+2,6,3,1,2,3,1,35,0,Vegetarian,Celiac Disease
+5,5,2,2,3,3,2,32,0,Vegan,Celiac Disease
+2,9,3,1,1,4,1,46,0,Non-Vegetarian,Celiac Disease
+2,5,2,1,3,3,3,32,0,Non-Vegetarian,Celiac Disease
+2,8,4,1,2,4,1,54,0,Vegan,Celiac Disease
+5,6,2,3,3,4,3,35,0,Vegetarian,Celiac Disease
+2,8,3,1,3,3,1,31,0,Vegetarian,Celiac Disease
+2,9,3,2,1,4,3,53,0,Non-Vegetarian,Celiac Disease
+3,7,4,3,1,4,1,36,0,Vegetarian,Celiac Disease
+2,5,4,2,3,4,3,34,0,Vegetarian,Celiac Disease
+3,8,3,2,3,4,3,34,0,Non-Vegetarian,Celiac Disease
+2,7,3,3,1,4,1,30,0,Non-Vegetarian,Celiac Disease
+5,6,3,3,3,3,2,49,0,Vegetarian,Celiac Disease
+2,5,2,2,3,4,2,43,0,Vegan,Celiac Disease
+4,7,2,3,2,4,1,32,0,Non-Vegetarian,Celiac Disease
+2,8,3,2,3,3,3,53,0,Vegan,Celiac Disease
+3,6,3,1,2,3,2,48,0,Vegan,Celiac Disease
+4,9,3,2,1,3,1,45,0,Vegan,Celiac Disease
+5,7,3,1,3,3,3,42,0,Vegetarian,Celiac Disease
+2,5,3,2,3,4,2,30,0,Vegan,Celiac Disease
+4,8,2,2,2,4,2,42,0,Vegan,Celiac Disease
+3,7,4,3,1,4,2,35,0,Non-Vegetarian,Celiac Disease
+4,6,3,1,2,3,2,33,0,Non-Vegetarian,Celiac Disease
+3,6,3,3,2,4,1,52,0,Vegan,Celiac Disease
+3,5,2,3,1,4,2,55,0,Non-Vegetarian,Celiac Disease
+3,8,4,2,2,4,3,36,0,Non-Vegetarian,Celiac Disease
+2,5,3,2,2,3,2,33,0,Vegetarian,Celiac Disease
+5,9,4,1,2,3,3,44,0,Vegan,Celiac Disease
+4,7,3,2,1,4,2,48,0,Non-Vegetarian,Celiac Disease
+2,7,3,2,1,3,1,44,0,Vegan,Celiac Disease
+3,9,2,1,3,3,3,38,0,Non-Vegetarian,Celiac Disease
+2,8,3,2,3,3,1,53,0,Vegetarian,Celiac Disease
+5,5,3,1,3,3,1,31,0,Vegetarian,Celiac Disease
+3,8,3,3,2,4,3,38,0,Non-Vegetarian,Celiac Disease
+5,9,2,1,1,4,2,52,0,Vegetarian,Celiac Disease
+4,7,4,2,3,4,2,59,0,Vegan,Celiac Disease
+3,9,4,3,3,4,1,33,0,Vegan,Celiac Disease
+2,5,3,3,1,4,2,43,0,Non-Vegetarian,Celiac Disease
+4,6,4,3,1,4,2,35,0,Vegetarian,Celiac Disease
+3,6,3,3,3,3,1,53,0,Non-Vegetarian,Celiac Disease
+4,5,3,2,3,3,1,36,0,Non-Vegetarian,Celiac Disease
+3,6,3,2,1,4,1,35,0,Vegan,Celiac Disease
+2,9,2,2,1,3,3,37,0,Vegan,Celiac Disease
+4,5,4,3,2,4,2,59,0,Non-Vegetarian,Celiac Disease
+5,5,4,2,3,4,3,55,0,Vegan,Celiac Disease
+5,7,4,1,3,3,3,36,0,Non-Vegetarian,Celiac Disease
+4,9,3,1,3,4,2,37,0,Non-Vegetarian,Celiac Disease
+3,9,3,2,2,3,1,49,0,Vegetarian,Celiac Disease
+4,7,4,2,2,3,2,37,0,Vegetarian,Celiac Disease
+3,5,4,2,1,3,3,44,0,Non-Vegetarian,Celiac Disease
+5,9,2,2,3,3,3,53,0,Vegan,Celiac Disease
+2,6,2,3,1,3,3,36,0,Vegetarian,Celiac Disease
+2,5,3,1,2,4,3,35,0,Non-Vegetarian,Celiac Disease
+5,7,2,2,2,3,3,59,0,Vegan,Celiac Disease
+2,9,3,1,2,4,3,47,0,Vegan,Celiac Disease
+5,8,2,1,1,3,2,54,0,Vegetarian,Celiac Disease
+5,8,4,1,1,3,2,32,0,Vegetarian,Celiac Disease
+2,5,3,3,1,3,3,43,0,Vegetarian,Celiac Disease
+3,7,4,3,3,3,2,31,0,Vegan,Celiac Disease
+4,6,4,3,2,3,2,51,0,Vegan,Celiac Disease
+2,8,2,3,3,3,2,45,0,Vegan,Celiac Disease
+3,7,3,2,1,4,2,40,0,Non-Vegetarian,Celiac Disease
+3,8,3,3,1,4,3,37,0,Vegetarian,Celiac Disease
+2,8,2,1,2,4,1,50,0,Non-Vegetarian,Celiac Disease
+5,8,4,1,3,4,1,38,0,Non-Vegetarian,Celiac Disease
+4,8,3,2,2,4,1,39,0,Vegan,Celiac Disease
+3,5,2,2,3,4,2,40,0,Vegetarian,Celiac Disease
+3,9,4,3,3,3,1,34,0,Vegetarian,Celiac Disease
+5,8,2,2,1,3,2,36,0,Vegan,Celiac Disease
+5,8,4,3,2,3,2,51,0,Vegan,Celiac Disease
+5,6,3,3,3,3,1,31,0,Vegetarian,Celiac Disease
+5,5,2,2,3,3,1,33,0,Vegan,Celiac Disease
+2,6,2,1,1,4,2,57,0,Vegan,Celiac Disease
+3,5,4,1,2,3,1,56,0,Non-Vegetarian,Celiac Disease
+4,6,4,1,3,4,1,44,0,Non-Vegetarian,Celiac Disease
+5,6,3,1,2,4,2,55,0,Vegan,Celiac Disease
+2,6,2,3,1,3,2,53,0,Vegan,Celiac Disease
+3,5,4,1,1,4,3,40,0,Non-Vegetarian,Celiac Disease
+5,7,4,3,3,4,1,38,0,Non-Vegetarian,Celiac Disease
+4,5,2,2,2,4,1,42,0,Non-Vegetarian,Celiac Disease
+5,8,3,2,2,4,3,43,0,Non-Vegetarian,Celiac Disease
+2,9,4,2,1,4,2,33,0,Vegetarian,Celiac Disease
+2,5,4,2,2,3,3,36,0,Vegetarian,Celiac Disease
+4,5,3,3,3,3,1,35,0,Vegan,Celiac Disease
+2,6,3,2,2,3,3,44,0,Vegan,Celiac Disease
+3,6,2,2,1,4,2,39,0,Vegetarian,Celiac Disease
+3,9,4,1,3,3,3,38,0,Vegan,Celiac Disease
+3,8,4,3,2,3,1,48,0,Vegetarian,Celiac Disease
+5,7,4,1,1,3,2,56,0,Non-Vegetarian,Celiac Disease
+3,9,4,2,3,4,1,50,0,Vegan,Celiac Disease
+3,6,3,2,1,4,1,46,0,Vegetarian,Celiac Disease
+2,9,3,3,1,3,1,43,0,Vegan,Celiac Disease
+2,5,2,1,3,4,3,46,0,Vegetarian,Celiac Disease
+2,6,3,3,1,4,2,34,0,Vegetarian,Celiac Disease
+5,7,3,2,3,3,1,45,0,Vegan,Celiac Disease
+5,6,3,3,2,4,1,32,0,Vegetarian,Celiac Disease
+4,5,3,2,2,4,1,49,0,Non-Vegetarian,Celiac Disease
+3,9,4,1,1,4,1,37,0,Vegan,Celiac Disease
+2,6,2,2,2,4,3,57,0,Non-Vegetarian,Celiac Disease
+2,6,2,2,3,4,3,36,0,Vegetarian,Celiac Disease
+4,8,4,2,3,4,1,40,0,Non-Vegetarian,Celiac Disease
+4,7,3,1,2,3,3,32,0,Vegan,Celiac Disease
+2,8,3,2,2,3,2,38,0,Vegetarian,Celiac Disease
+3,5,2,3,1,3,2,50,0,Non-Vegetarian,Celiac Disease
+4,9,4,3,1,3,2,43,0,Non-Vegetarian,Celiac Disease
+2,9,4,2,1,4,2,46,0,Vegan,Celiac Disease
+3,8,4,3,2,4,2,44,0,Vegan,Celiac Disease
+3,9,2,2,1,3,1,58,0,Vegetarian,Celiac Disease
+2,8,4,3,2,4,1,41,0,Vegan,Celiac Disease
+2,6,4,1,2,3,2,42,0,Vegetarian,Celiac Disease
+5,6,3,2,3,3,3,41,0,Non-Vegetarian,Celiac Disease
+2,9,4,3,1,4,3,35,0,Non-Vegetarian,Celiac Disease
+2,7,3,1,3,4,2,45,0,Vegan,Celiac Disease
+4,8,4,3,1,4,1,59,0,Vegan,Celiac Disease
+2,6,3,3,2,4,1,38,0,Vegan,Celiac Disease
+5,6,4,3,1,3,3,38,0,Vegetarian,Celiac Disease
+5,8,3,1,1,4,3,37,0,Non-Vegetarian,Celiac Disease
+2,7,4,3,1,4,1,59,0,Non-Vegetarian,Celiac Disease
+5,8,3,2,3,4,2,41,0,Vegan,Celiac Disease
+5,6,3,2,2,3,1,49,0,Vegan,Celiac Disease
+4,6,2,2,3,3,1,49,0,Vegetarian,Celiac Disease
+5,7,2,3,2,3,2,57,0,Non-Vegetarian,Celiac Disease
+5,9,3,1,2,3,3,52,0,Vegetarian,Celiac Disease
+2,6,4,3,2,3,3,55,0,Vegan,Celiac Disease
+4,8,3,1,1,3,3,57,0,Non-Vegetarian,Celiac Disease
+2,6,3,2,2,4,2,47,0,Vegetarian,Celiac Disease
+2,8,3,3,3,4,2,55,0,Non-Vegetarian,Celiac Disease
+3,8,3,2,3,3,2,40,0,Vegan,Celiac Disease
+5,8,3,2,2,3,2,55,0,Vegan,Celiac Disease
+3,5,2,1,2,4,3,37,0,Non-Vegetarian,Celiac Disease
+4,7,3,1,1,3,2,34,0,Vegan,Celiac Disease
+5,5,4,1,1,3,3,48,0,Vegetarian,Celiac Disease
+4,7,4,1,1,4,3,40,0,Non-Vegetarian,Celiac Disease
+4,7,3,3,2,3,3,49,0,Vegan,Celiac Disease
+3,6,2,3,3,4,1,52,0,Vegetarian,Celiac Disease
+2,6,2,3,3,4,3,33,0,Non-Vegetarian,Celiac Disease
+5,7,2,1,2,4,1,44,0,Vegetarian,Celiac Disease
+3,7,4,1,3,3,1,55,0,Non-Vegetarian,Celiac Disease
+3,9,3,2,2,4,3,35,0,Vegetarian,Celiac Disease
+5,9,2,2,3,3,1,41,0,Vegetarian,Celiac Disease
+3,5,3,1,1,4,1,34,0,Non-Vegetarian,Celiac Disease
+4,6,3,2,1,3,1,31,0,Non-Vegetarian,Celiac Disease
+4,5,3,1,2,3,1,44,0,Vegan,Celiac Disease
+2,9,2,3,2,4,3,46,0,Vegan,Celiac Disease
+5,8,4,2,2,4,2,44,0,Vegetarian,Celiac Disease
+5,7,2,3,2,3,3,41,0,Vegan,Celiac Disease
+4,5,2,3,2,4,1,37,0,Non-Vegetarian,Celiac Disease
+4,8,4,1,1,3,1,41,0,Vegan,Celiac Disease
+3,7,4,3,2,4,1,59,0,Vegan,Celiac Disease
+5,8,3,3,1,3,2,32,0,Vegan,Celiac Disease
+4,7,4,2,2,3,3,39,0,Non-Vegetarian,Celiac Disease
+4,9,2,1,1,4,1,34,0,Vegan,Celiac Disease
+2,8,4,1,3,3,3,59,0,Vegetarian,Celiac Disease
+2,5,3,2,2,3,2,31,0,Vegan,Celiac Disease
+4,6,3,2,2,3,1,31,0,Vegan,Celiac Disease
+3,6,4,2,2,3,1,59,0,Non-Vegetarian,Celiac Disease
+2,5,3,1,3,4,3,36,0,Non-Vegetarian,Celiac Disease
+5,8,4,3,2,3,3,34,0,Non-Vegetarian,Celiac Disease
+2,6,2,1,3,3,2,41,0,Vegan,Celiac Disease
+3,5,2,3,3,4,2,44,0,Vegetarian,Celiac Disease
+4,8,3,2,2,4,1,40,0,Non-Vegetarian,Celiac Disease
+2,5,4,2,3,3,1,33,0,Non-Vegetarian,Celiac Disease
+3,6,4,3,2,4,2,52,0,Vegetarian,Celiac Disease
+3,8,4,1,1,4,2,44,0,Non-Vegetarian,Celiac Disease
+4,9,3,3,2,4,1,34,0,Vegetarian,Celiac Disease
+3,6,3,1,3,4,3,53,0,Vegan,Celiac Disease
+4,8,3,1,2,4,3,50,0,Non-Vegetarian,Celiac Disease
+2,7,2,1,1,4,2,32,0,Vegan,Celiac Disease
+3,6,3,3,2,4,3,59,0,Vegan,Celiac Disease
+5,7,3,1,3,3,2,56,0,Vegetarian,Celiac Disease
+4,9,4,1,3,3,3,34,0,Vegetarian,Celiac Disease
+4,6,4,2,3,4,1,38,0,Vegan,Celiac Disease
+4,8,4,1,1,4,3,50,0,Vegetarian,Celiac Disease
+3,5,4,3,1,3,1,53,0,Vegan,Celiac Disease
+4,9,2,1,3,3,1,59,0,Vegan,Celiac Disease
+2,7,4,3,2,3,3,41,0,Vegetarian,Celiac Disease
+3,9,3,2,3,3,1,55,0,Non-Vegetarian,Celiac Disease
+4,7,2,1,3,3,3,57,0,Non-Vegetarian,Celiac Disease
+3,6,3,2,3,4,2,58,0,Non-Vegetarian,Celiac Disease
+3,6,4,2,2,3,2,48,0,Vegetarian,Celiac Disease
+2,6,2,3,2,3,1,38,0,Non-Vegetarian,Celiac Disease
+4,5,3,1,2,4,2,33,0,Vegetarian,Celiac Disease
+3,7,3,1,2,3,3,43,0,Vegan,Celiac Disease
+5,9,3,3,1,4,3,46,0,Vegetarian,Celiac Disease
+4,9,4,1,2,3,2,58,0,Vegetarian,Celiac Disease
+2,5,3,2,3,3,3,32,0,Non-Vegetarian,Celiac Disease
+3,7,2,2,1,4,1,30,0,Vegan,Celiac Disease
+3,6,3,3,2,3,3,56,0,Non-Vegetarian,Celiac Disease
+3,8,3,3,3,3,3,32,0,Vegetarian,Celiac Disease
+2,9,2,2,1,3,2,46,0,Non-Vegetarian,Celiac Disease
+4,7,4,3,3,3,3,36,0,Non-Vegetarian,Celiac Disease
+3,6,4,2,2,4,3,40,0,Vegetarian,Celiac Disease
+4,7,4,2,1,4,1,50,0,Vegan,Celiac Disease
+5,6,3,2,2,3,2,57,0,Non-Vegetarian,Celiac Disease
+2,7,2,2,2,4,3,46,0,Vegetarian,Celiac Disease
+3,7,3,1,1,4,1,33,0,Vegetarian,Celiac Disease
+3,6,4,1,2,3,1,58,0,Vegetarian,Celiac Disease
+4,8,4,3,2,3,3,49,0,Vegetarian,Celiac Disease
+5,5,4,2,1,4,3,33,0,Non-Vegetarian,Celiac Disease
+3,9,4,2,1,3,1,49,0,Vegan,Celiac Disease
+3,8,3,2,1,3,1,42,0,Vegetarian,Celiac Disease
+4,5,4,3,2,4,1,32,0,Non-Vegetarian,Celiac Disease
+3,5,3,3,2,4,1,52,0,Vegetarian,Celiac Disease
+2,8,4,1,1,4,1,52,0,Vegan,Celiac Disease
+2,5,2,2,3,3,2,45,0,Non-Vegetarian,Celiac Disease
+2,7,3,3,1,4,3,32,0,Vegetarian,Celiac Disease
+5,7,2,3,1,4,3,44,0,Non-Vegetarian,Celiac Disease
+2,6,4,3,1,3,2,33,0,Vegetarian,Celiac Disease
+5,8,3,1,3,3,3,57,0,Vegetarian,Celiac Disease
+5,5,3,3,1,3,3,42,0,Vegetarian,Celiac Disease
+5,7,3,3,1,3,3,57,0,Non-Vegetarian,Celiac Disease
+5,9,2,3,2,3,1,44,0,Vegetarian,Celiac Disease
+4,9,4,3,3,4,3,39,0,Vegetarian,Celiac Disease
+5,9,3,1,1,3,1,47,0,Non-Vegetarian,Celiac Disease
+4,6,2,2,1,3,1,47,0,Vegan,Celiac Disease
+5,9,2,1,3,4,3,33,0,Non-Vegetarian,Celiac Disease
+3,6,3,2,1,4,1,56,0,Vegetarian,Celiac Disease
+4,6,3,2,3,3,1,49,0,Vegan,Celiac Disease
+4,8,2,3,1,3,2,33,0,Non-Vegetarian,Celiac Disease
+5,6,3,1,2,4,2,37,0,Vegan,Celiac Disease
+5,5,2,2,2,4,1,31,0,Vegetarian,Celiac Disease
+4,6,3,3,3,4,1,33,0,Vegan,Celiac Disease
+3,8,2,2,1,4,1,48,0,Vegan,Celiac Disease
+3,5,4,3,3,3,1,49,0,Vegetarian,Celiac Disease
+4,5,4,1,2,3,1,49,0,Vegan,Celiac Disease
+4,9,2,1,3,3,2,51,0,Vegan,Celiac Disease
+4,9,3,3,1,4,3,44,0,Non-Vegetarian,Celiac Disease
+3,6,4,3,1,4,3,36,0,Vegan,Celiac Disease
+3,7,3,1,1,4,2,49,0,Vegetarian,Celiac Disease
+4,8,3,2,2,3,3,34,0,Vegetarian,Celiac Disease
+4,8,3,3,1,4,3,53,0,Vegetarian,Celiac Disease
+2,9,3,3,1,3,3,47,0,Vegan,Celiac Disease
+3,9,4,1,3,3,2,56,0,Vegetarian,Celiac Disease
+4,5,2,3,2,3,3,59,0,Vegetarian,Celiac Disease
+3,8,3,1,2,3,3,51,0,Non-Vegetarian,Celiac Disease
+5,6,4,3,1,3,1,33,0,Non-Vegetarian,Celiac Disease
+3,9,3,3,2,4,1,33,0,Vegetarian,Celiac Disease
+5,6,3,3,3,4,1,59,0,Vegetarian,Celiac Disease
+5,5,3,1,2,3,1,37,0,Non-Vegetarian,Celiac Disease
+5,7,3,2,3,3,3,39,0,Vegetarian,Celiac Disease
+5,6,4,1,2,3,2,42,0,Vegan,Celiac Disease
+3,9,2,2,1,3,1,39,0,Vegetarian,Celiac Disease
+2,8,4,1,3,4,1,43,0,Non-Vegetarian,Celiac Disease
+3,7,2,3,3,3,2,46,0,Non-Vegetarian,Celiac Disease
+4,5,2,1,2,4,2,51,0,Vegetarian,Celiac Disease
+2,7,3,1,1,4,2,55,0,Vegan,Celiac Disease
+3,8,2,1,3,3,2,55,0,Non-Vegetarian,Celiac Disease
+2,8,3,1,1,4,1,41,0,Non-Vegetarian,Celiac Disease
+5,5,4,3,1,3,3,49,0,Vegan,Celiac Disease
+4,9,4,1,3,4,2,52,0,Vegan,Celiac Disease
+3,9,3,3,1,4,2,33,0,Vegan,Celiac Disease
+5,6,4,1,1,3,1,52,0,Vegan,Celiac Disease
+2,9,2,2,2,3,3,49,0,Vegetarian,Celiac Disease
+3,9,4,1,1,3,3,56,0,Vegan,Celiac Disease
+3,7,3,3,3,3,1,50,0,Non-Vegetarian,Celiac Disease
+4,8,2,2,1,3,1,59,0,Vegetarian,Celiac Disease
+5,7,2,1,2,3,1,37,0,Vegan,Celiac Disease
+3,6,4,3,1,4,1,33,0,Non-Vegetarian,Celiac Disease
+2,5,2,2,2,3,3,35,0,Non-Vegetarian,Celiac Disease
+5,9,4,2,3,3,3,48,0,Vegetarian,Celiac Disease
+2,7,2,2,3,3,1,40,0,Vegan,Celiac Disease
+4,6,3,2,3,4,3,39,0,Vegan,Celiac Disease
+5,9,3,2,3,4,1,38,0,Non-Vegetarian,Celiac Disease
+5,8,2,1,1,4,2,41,0,Vegetarian,Celiac Disease
+2,5,3,3,3,3,3,30,0,Non-Vegetarian,Celiac Disease
+4,7,3,2,2,3,1,46,0,Vegan,Celiac Disease
+5,9,3,3,1,3,3,58,0,Non-Vegetarian,Celiac Disease
+4,8,3,3,3,3,2,41,0,Vegan,Celiac Disease
+5,6,2,1,1,3,1,45,0,Vegetarian,Celiac Disease
+4,8,4,3,1,3,1,44,0,Vegetarian,Celiac Disease
+4,6,3,2,2,4,2,43,0,Non-Vegetarian,Celiac Disease
+3,6,4,3,1,3,2,47,0,Vegan,Celiac Disease
+5,6,2,2,3,3,1,45,0,Vegetarian,Celiac Disease
+4,8,4,3,2,4,1,37,0,Vegan,Celiac Disease
+5,9,3,3,2,3,2,57,0,Non-Vegetarian,Celiac Disease
+3,5,2,1,1,4,2,42,0,Vegetarian,Celiac Disease
+5,7,4,1,2,3,2,55,0,Non-Vegetarian,Celiac Disease
+4,5,2,2,1,3,3,30,0,Non-Vegetarian,Celiac Disease
+5,5,3,1,2,3,1,33,0,Vegan,Celiac Disease
+4,5,4,1,1,4,1,51,0,Vegetarian,Celiac Disease
+4,9,4,3,1,3,1,46,0,Vegan,Celiac Disease
+2,7,4,3,2,3,3,39,0,Vegetarian,Celiac Disease
+2,8,3,3,3,3,3,41,0,Non-Vegetarian,Celiac Disease
+4,9,3,2,1,3,3,57,0,Non-Vegetarian,Celiac Disease
+3,6,3,3,3,3,3,41,0,Vegan,Celiac Disease
+3,9,3,3,1,3,2,33,0,Vegan,Celiac Disease
+2,6,4,1,2,4,3,37,0,Vegetarian,Celiac Disease
+3,7,2,1,3,3,2,56,0,Vegan,Celiac Disease
+5,6,3,1,3,4,2,55,0,Vegan,Celiac Disease
+5,7,2,1,1,4,3,38,0,Vegetarian,Celiac Disease
+2,8,2,2,2,4,1,40,0,Vegan,Celiac Disease
+4,9,3,3,2,3,2,49,0,Non-Vegetarian,Celiac Disease
+4,6,4,1,1,3,3,30,0,Vegan,Celiac Disease
+5,9,4,1,1,4,1,46,0,Vegetarian,Celiac Disease
+4,5,4,3,1,4,2,35,0,Vegan,Celiac Disease
+5,9,2,1,1,3,3,49,0,Vegetarian,Celiac Disease
+3,9,2,3,2,3,1,38,0,Non-Vegetarian,Celiac Disease
+5,9,4,1,3,4,2,42,0,Vegetarian,Celiac Disease
+4,6,3,2,1,4,2,49,0,Vegan,Celiac Disease
+2,5,4,2,3,4,1,38,0,Vegetarian,Celiac Disease
+3,8,2,3,3,3,3,30,0,Vegetarian,Celiac Disease
+4,6,3,1,1,3,1,52,0,Non-Vegetarian,Celiac Disease
+3,6,3,2,3,4,3,50,0,Non-Vegetarian,Celiac Disease
+4,7,3,2,3,3,2,32,0,Vegan,Celiac Disease
+2,5,4,1,3,4,3,41,0,Non-Vegetarian,Celiac Disease
+3,6,4,2,1,3,3,40,0,Vegan,Celiac Disease
+3,7,2,3,1,4,1,44,0,Vegetarian,Celiac Disease
+4,6,2,2,3,4,3,57,0,Vegetarian,Celiac Disease
+3,7,3,2,2,4,1,32,0,Vegetarian,Celiac Disease
+2,7,4,1,2,3,3,47,0,Vegetarian,Celiac Disease
+4,5,3,2,1,3,2,48,0,Vegan,Celiac Disease
+2,7,4,2,2,4,1,42,0,Non-Vegetarian,Celiac Disease
+3,5,4,1,3,4,2,53,0,Vegan,Celiac Disease
+2,8,4,1,1,3,2,50,0,Vegetarian,Celiac Disease
+2,7,2,2,3,3,2,50,0,Vegan,Celiac Disease
+2,7,3,1,2,3,1,47,0,Vegan,Celiac Disease
+2,6,4,3,2,4,2,30,0,Vegetarian,Celiac Disease
+3,5,3,3,3,4,3,51,0,Non-Vegetarian,Celiac Disease
+2,6,4,2,2,4,3,49,0,Vegetarian,Celiac Disease
+3,9,3,1,3,3,2,32,0,Vegan,Celiac Disease
+4,9,4,1,2,4,2,33,0,Vegetarian,Celiac Disease
+3,5,4,2,3,3,2,57,0,Vegetarian,Celiac Disease
+2,6,4,1,1,4,2,41,0,Vegetarian,Celiac Disease
+2,9,2,3,1,3,2,46,0,Non-Vegetarian,Celiac Disease
+2,5,2,3,3,3,3,51,0,Vegetarian,Celiac Disease
+2,8,4,2,3,3,2,51,0,Vegan,Celiac Disease
+3,6,2,3,3,4,2,58,0,Vegetarian,Celiac Disease
+5,9,2,2,2,4,2,36,0,Non-Vegetarian,Celiac Disease
+3,5,3,3,1,4,3,55,0,Vegetarian,Celiac Disease
+4,5,4,1,2,4,3,50,0,Vegetarian,Celiac Disease
+2,7,4,1,1,3,1,52,0,Vegetarian,Celiac Disease
+4,9,4,1,2,4,1,51,0,Vegetarian,Celiac Disease
+5,8,3,1,3,3,1,55,0,Non-Vegetarian,Celiac Disease
+5,5,2,1,1,4,1,37,0,Non-Vegetarian,Celiac Disease
+4,9,2,2,3,4,3,49,0,Non-Vegetarian,Celiac Disease
+4,6,4,3,3,4,1,39,0,Vegetarian,Celiac Disease
+3,6,4,2,1,4,1,35,0,Vegan,Celiac Disease
+2,6,2,2,3,3,3,45,0,Vegetarian,Celiac Disease
+2,5,2,2,1,4,1,54,0,Vegan,Celiac Disease
+2,5,2,3,2,4,2,58,0,Vegetarian,Celiac Disease
+5,8,3,3,2,4,1,38,0,Vegan,Celiac Disease
+4,5,4,3,1,3,3,54,0,Vegetarian,Celiac Disease
+2,9,2,2,1,4,2,59,0,Vegetarian,Celiac Disease
+5,8,2,1,1,3,2,32,0,Vegan,Celiac Disease
+5,9,2,1,2,4,3,31,0,Vegetarian,Celiac Disease
+3,6,3,1,1,3,3,40,0,Vegan,Celiac Disease
+3,5,4,1,3,4,3,45,0,Vegetarian,Celiac Disease
+4,7,3,3,2,4,1,59,0,Vegan,Celiac Disease
+4,5,4,2,2,3,1,39,0,Vegan,Celiac Disease
+5,6,4,1,3,4,3,48,0,Non-Vegetarian,Celiac Disease
+2,7,3,3,3,3,2,41,0,Vegan,Celiac Disease
+5,5,2,1,2,4,2,39,0,Non-Vegetarian,Celiac Disease
+3,9,4,1,3,3,1,39,0,Vegan,Celiac Disease
+4,6,2,3,1,4,2,37,0,Vegetarian,Celiac Disease
+5,8,3,3,3,4,2,50,0,Vegan,Celiac Disease
+2,8,4,2,2,4,1,36,0,Vegetarian,Celiac Disease
+2,6,4,3,3,3,1,53,0,Vegetarian,Celiac Disease
+4,5,2,3,3,4,1,56,0,Non-Vegetarian,Celiac Disease
+2,8,2,2,3,3,1,48,0,Vegan,Celiac Disease
+3,6,4,3,2,3,2,39,0,Vegan,Celiac Disease
+5,6,3,3,1,4,3,38,0,Vegetarian,Celiac Disease
+4,6,2,1,1,3,3,37,0,Non-Vegetarian,Celiac Disease
+2,9,4,1,1,4,1,55,0,Vegan,Celiac Disease
+4,5,2,3,3,4,2,54,0,Vegetarian,Celiac Disease
+3,6,2,1,1,4,1,55,0,Non-Vegetarian,Celiac Disease
+2,5,3,1,3,4,1,41,0,Vegetarian,Celiac Disease
+2,9,4,2,2,4,1,46,0,Vegetarian,Celiac Disease
+2,7,3,2,3,4,3,48,0,Vegetarian,Celiac Disease
+4,7,4,1,3,3,2,41,0,Vegan,Celiac Disease
+4,7,3,1,1,4,1,58,0,Non-Vegetarian,Celiac Disease
+2,9,2,1,3,4,1,39,0,Vegetarian,Celiac Disease
+2,6,3,3,3,4,1,49,0,Vegetarian,Celiac Disease
+2,8,4,3,2,4,2,34,0,Non-Vegetarian,Celiac Disease
+3,8,4,1,1,3,1,55,0,Vegetarian,Celiac Disease
+4,8,2,3,2,4,2,33,0,Non-Vegetarian,Celiac Disease
+3,8,2,2,3,4,2,30,0,Vegetarian,Celiac Disease
+3,7,2,3,3,3,3,53,0,Vegetarian,Celiac Disease
+4,6,3,1,3,3,3,54,0,Vegan,Celiac Disease
+2,9,4,2,1,3,2,33,0,Vegetarian,Celiac Disease
+4,6,4,2,2,4,2,33,0,Vegetarian,Celiac Disease
+4,6,4,2,1,3,1,31,0,Non-Vegetarian,Celiac Disease
+5,6,3,2,3,4,2,54,0,Vegetarian,Celiac Disease
+2,8,4,3,3,4,3,41,0,Vegan,Celiac Disease
+4,6,3,3,2,3,3,58,0,Vegan,Celiac Disease
+3,7,3,3,2,3,1,56,0,Vegetarian,Celiac Disease
+4,7,3,3,1,4,2,50,0,Vegetarian,Celiac Disease
+5,5,3,1,3,4,3,56,0,Vegetarian,Celiac Disease
+4,9,3,3,3,4,1,44,0,Vegan,Celiac Disease
+2,8,2,1,1,4,3,45,0,Vegetarian,Celiac Disease
+5,9,2,1,3,3,3,49,0,Vegan,Celiac Disease
+4,7,2,2,2,4,2,59,0,Vegetarian,Celiac Disease
+2,9,2,1,1,4,3,49,0,Non-Vegetarian,Celiac Disease
+5,5,2,3,3,3,3,55,0,Vegetarian,Celiac Disease
+4,9,2,1,3,3,2,48,0,Non-Vegetarian,Celiac Disease
+2,9,2,3,3,4,2,49,0,Non-Vegetarian,Celiac Disease
+3,9,2,3,2,4,2,54,0,Vegetarian,Celiac Disease
+5,7,4,1,1,3,1,42,0,Vegetarian,Celiac Disease
+4,6,2,3,1,4,1,57,0,Non-Vegetarian,Celiac Disease
+3,7,4,1,2,4,3,53,0,Vegetarian,Celiac Disease
+2,7,3,3,1,3,2,47,0,Vegan,Celiac Disease
+2,8,2,3,3,4,2,38,0,Vegetarian,Celiac Disease
+2,5,2,2,2,4,3,40,0,Vegan,Celiac Disease
+3,5,3,1,1,4,2,30,0,Vegan,Celiac Disease
+4,5,3,2,1,4,3,33,0,Vegetarian,Celiac Disease
+3,5,3,1,1,3,1,35,0,Vegan,Celiac Disease
