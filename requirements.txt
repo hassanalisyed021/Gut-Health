@@ -1,6 +1,7 @@
-streamlit 
-pandas 
-joblib 
-matplotlib 
-seaborn 
+streamlit
+pandas
+joblib
+matplotlib
+seaborn
 google-generativeai
+scikit-learn
